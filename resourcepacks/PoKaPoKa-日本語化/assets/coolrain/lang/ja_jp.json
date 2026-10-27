@@ -1,0 +1,13 @@
+{
+ "sounds.coolrain.rain_sounds_metal": "金属に当たる雨",
+ "sounds.coolrain.rain_sounds_lava": "雨で熱がジュッと鳴る",
+ "sounds.coolrain.rain_sounds_fabric": "布に当たる雨",
+ "sounds.coolrain.rain_sounds_foliage": "葉に当たる雨",
+ "sounds.coolrain.rain_sounds_glass": "ガラスに当たる雨",
+ "sounds.coolrain.rain_sounds_water": "水に当たる雨",
+ "sounds.coolrain.wind_sounds": "嵐の風がヒューと鳴る",
+ "sounds.coolrain.rolling_thunder": "遠くで雷が轟く",
+ "sounds.coolrain.rain_sounds_amethyst": "雨でクリスタルが鳴る",
+ "sounds.coolrain.rain_sounds_noteblock": "雨で音符ブロックが鳴る",
+ "coolrain.midnightconfig.title": "CoolRain 設定"
+}

@@ -1,0 +1,7 @@
+{
+ "cullleaves.midnightconfig.title": "Cull Leaves 設定",
+ "cullleaves.midnightconfig.enabled.tooltip": "葉のカリングを有効にし、パフォーマンスを大きく向上させます",
+ "cullleaves.midnightconfig.enabled": "葉のカリングを有効にする",
+ "cullleaves.midnightconfig.cullRoots.tooltip": "マングローブの根のカリングを有効にします",
+ "cullleaves.midnightconfig.cullRoots": "マングローブの根のカリングを有効にする"
+}

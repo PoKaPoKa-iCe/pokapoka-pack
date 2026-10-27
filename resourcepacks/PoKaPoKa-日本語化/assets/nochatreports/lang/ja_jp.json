@@ -1,0 +1,16 @@
+{
+ "key.nochatreports.ctrl": "Ctrl",
+ "key.nochatreports.cmd": "Cmd",
+ "gui.nochatreports.safety_status.insecure_signing": "チャットの署名を有効にしています。これにより、あなたのすべてのメッセージが、チャット報告で不利な証拠として使われうるものになります。",
+ "gui.nochatreports.signing_required.contents": "このサーバーはすべてのチャットメッセージに署名を必要とします。つまり、メッセージが Mojang に報告される可能性があり、その結果、すべてのマルチプレイサーバーからの BAN につながるおそれがあります。これはおそらく、サーバー管理者が server.properties の \"enforce-secure-profile\" を有効のままにしているためで、これは 1.19.1 以降の既定値です。\n\n\"Allow Signing\" をクリックすると、このセッションでメッセージの署名が有効になります。チャット画面の安全ステータスボタンから、このサーバーの署名モードを選ぶこともできます。",
+ "chat.nochatreports.disabled.signing_requested": "サーバーが署名のないメッセージの配信を拒否しました。署名モードを変更するか、確認画面から、チャットの署名を有効にできます。",
+ "configuration.NoChatReports.category.client": "クライアント",
+ "option.NoChatReports.defaultSigningMode": "既定の署名モード",
+ "option.NoChatReports.defaultSigningMode.tooltip": "チャットの署名を強制または許可するサーバーでの、既定の署名モードを設定します。",
+ "option.NoChatReports.hideInsecureMessageIndicators": "未検証メッセージの表示を隠す",
+ "option.NoChatReports.hideSigningRequestMessage": "署名要求メッセージを隠す",
+ "option.NoChatReports.hideSigningRequestMessage.tooltip": "サーバーがクライアントにメッセージへの署名を求めたときに表示されるチャットメッセージを隠します。",
+ "configuration.NoChatReports.category.lan": "LAN",
+ "option.NoChatReports.demandOnClientMessage": "クライアント必須のキックメッセージ",
+ "option.NoChatReports.demandOnClientMessage.tooltip": "No Chat Reports を導入せずにサーバーに参加しようとしたクライアントに表示されるメッセージです。"
+}

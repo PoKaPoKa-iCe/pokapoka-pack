@@ -1,0 +1,7 @@
+{
+ "options.languagereload.removableDefaultLanguage": "デフォルト言語",
+ "options.languagereload.removableDefaultLanguage.removable": "削除可能",
+ "options.languagereload.removableDefaultLanguage.removable.tooltip": "English (US) の選択を解除できるようにします。デバッグ時に便利な場合があります。",
+ "options.languagereload.removableDefaultLanguage.fixed": "固定",
+ "options.languagereload.removableDefaultLanguage.fixed.tooltip": "English (US) の選択解除を防ぎます。"
+}

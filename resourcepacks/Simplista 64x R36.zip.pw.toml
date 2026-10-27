@@ -1,0 +1,8 @@
+name = "Simplista 64x R36"
+filename = "Simplista 64x R36.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6lrP7ALa/versions/EqtUFSGm/Simplista%2064x%20R36.zip"
+hash-format = "sha512"
+hash = "4e625f69d19863b48f3ffcf9b66bbbe365c5aece96ee67a599d0082c52cc35a9c04d0bfb8a154cd282b86cf505bc69ee21947032c32e3119768e2b47ce0a1084"

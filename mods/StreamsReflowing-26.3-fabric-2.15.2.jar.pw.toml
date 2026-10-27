@@ -1,0 +1,8 @@
+name = "StreamsReflowing-26.3-fabric-2.15.2"
+filename = "StreamsReflowing-26.3-fabric-2.15.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oLS8HdJ1/versions/1PyyzYS1/StreamsReflowing-26.3-fabric-2.15.2.jar"
+hash-format = "sha512"
+hash = "742c33545e799041b2a86e134e909211c48c6b554e7d2248a00d8c985eaf1fc9a1fe277fd4b61678eee790cd091d53c002db77682e5bc6cf980b30bee2410997"

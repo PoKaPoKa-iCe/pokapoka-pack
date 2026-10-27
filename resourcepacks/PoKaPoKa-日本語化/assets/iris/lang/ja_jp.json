@@ -1,0 +1,14 @@
+{
+ "iris.load.failure.shader": "シェーダーパックの読み込みに失敗しました！エラーをシェーダー開発者に報告してください。",
+ "iris.load.failure.generic": "Irisがシェーダーの読み込み中に問題が発生しました。この問題をIrisの開発者に報告してください。",
+ "iris.shaders.ssbofailure": "シェーダーが特定の機能（SSBO）を要求しましたが、お使いのGPUではサポートされていないため、正しく動作しない可能性があります。",
+ "iris.keybind.wireframe": "Wireframe (SP only)",
+ "iris.unsupported.pack.macos": "\nmacOSは多くのシェーダーパックで問題が発生することが知られています。",
+ "options.iris.shadowDistance.sodium_tooltip": "影のレンダリング距離は、影のパスで地形が描画される距離を制御します。距離を短くすると、描画される地形が減少し、フレームレートが向上します。このオプションは、影のレンダリング距離を明示的に指定しているパックでは変更できません。実際の影のレンダリング距離は、表示距離の設定によって制限されます。",
+ "options.iris.colorSpace": "カラースペース",
+ "options.iris.colorSpace.sodium_tooltip": "画面を変換するカラースペースです。シェーダーパックの上で動作します。自信がなければSRGBを使用してください。",
+ "iris.shaders.debug.restartNoDebug": "シェーダーのデバッグが有効になりました。NeoForge では OpenGL デバッグはサポートされていません。",
+ "key.category.iris.keybinds": "Iris",
+ "iris.nec.failure.title": "[%s] Not Enough Crashes が検出されました!",
+ "iris.nec.failure.description": "Not Enough Crashes は、クラッシュの処理中にゲームを深刻に壊すことがあり、正確な結果も得られません。\nMixinTrace が良い代替手段です。クラッシュの原因をより確実に特定でき、ゲームを不正な状態にもしません。"
+}

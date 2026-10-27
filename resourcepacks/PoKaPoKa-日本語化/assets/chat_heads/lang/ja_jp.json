@@ -1,0 +1,7 @@
+{
+ "text.autoconfig.chat_heads.option.threeDeeNess": "立体感",
+ "text.autoconfig.chat_heads.option.threeDeeNess.@Tooltip": "帽子レイヤーをわずかに大きく描画して、\nチャットヘッドの平らさを目立たなくする。\n一部の描画に問題が出ることがある。",
+ "text.autoconfig.chat_heads.option.drawShadow": "影を描画",
+ "text.autoconfig.chat_heads.option.rightPadding": "チャットヘッドの右余白",
+ "text.autoconfig.chat_heads.option.rightPadding.@Tooltip": "チャットヘッドの後ろに空けるピクセル数。\n0 はバニラと同じ(頭が文字に接する)\n1 は通常の文字と同じ(影が文字に接する)\n立体感がある程度の余白を追加することに注意。\nこの設定はチャットと本の中の頭にのみ適用される。"
+}

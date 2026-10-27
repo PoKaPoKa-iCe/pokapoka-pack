@@ -1,0 +1,8 @@
+name = "Pixlli V57 26.3-1.13 128x"
+filename = "Pixlli V57 26.3-1.13 128x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8fGzGhh/versions/w9CkPND8/Pixlli%20V57%2026.3-1.13%20128x.zip"
+hash-format = "sha512"
+hash = "2d9be848c68b15083edf8f1a5e64066a2b970a43e622e66e82c4e5971dc29a3a263351f38bdb111dacdd154134352f17ff7dda0a953ab2eedf5723c63ed563d9"

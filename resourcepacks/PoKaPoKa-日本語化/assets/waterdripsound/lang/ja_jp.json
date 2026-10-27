@@ -1,0 +1,17 @@
+{
+ "key.waterdripsound.category": "一般",
+ "config.waterdripsound.general": "水滴音の設定",
+ "config.waterdripsound.enable": "水滴音を有効にする",
+ "config.waterdripsound.volume": "水滴の音量",
+ "config.waterdripsound.dripChance": "水滴の確率",
+ "tooltip.config.waterdripsound.dripChance": "ブロックがランダムにアニメーションするとき、水滴のパーティクルが出る確率\n10 分の 1 = バニラ。大きいほど出にくくなります",
+ "config.waterdripsound.blockAnimateRangeMultiplier": "ブロックパーティクルの範囲倍率",
+ "tooltip.config.waterdripsound.blockAnimateRangeMultiplier": "ブロックのパーティクル効果の最大範囲を倍にします\n（水滴、煙、落ち葉、ホタル、泡の柱など）\n一部のブロックの環境音（火、溶岩、ポータルなど）にも影響します\n1.0 = バニラ。大きいほど、より遠くでパーティクルが出ます",
+ "config.waterdripsound.blockAnimateCountMultiplier": "ブロックパーティクルの数の倍率",
+ "tooltip.config.waterdripsound.blockAnimateCountMultiplier": "毎ティックにパーティクル効果を更新するブロックの数を倍にします\n大きくするほど、処理が目に見えて重くなります！\n1.0 = バニラ。大きいほど、より多くのブロックがパーティクルを出します\nバニラと同じ密度を保つには、範囲の 2 乗にしてください\n（例：範囲 2.0 -> 数 4.0、範囲 3.0 -> 数 9.0 など）",
+ "config.waterdripsound.blockAnimateNotSupported": "§eMOD の競合により、ブロックパーティクルのオプションは無効です：",
+ "config.waterdripsound.blockAnimateNotSupported.effective": "§eMOD「Effective」にすでにこの機能があります",
+ "config.waterdripsound.useDripstoneSounds": "鍾乳石の音を使う",
+ "tooltip.config.waterdripsound.useDripstoneSounds": "有効にすると、1.17 で追加された\n 鍾乳石の水/溶岩の水滴音を使います。\n無効の場合は、この MOD の\n 古いバージョンの音を使います。",
+ "config.waterdripsound.soundCategory": "水滴音のカテゴリ"
+}

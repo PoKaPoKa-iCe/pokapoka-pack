@@ -1,0 +1,10 @@
+{
+ "shulkerboxtooltip.colors.shulkerboxtooltip.default.generic_container": "汎用コンテナ",
+ "shulkerboxtooltip.colors.shulkerboxtooltip.bundles": "束",
+ "shulkerboxtooltip.config.option.preview.compact_preview_order": "コンパクトプレビューのアイテム順",
+ "shulkerboxtooltip.config.option.preview.compact_preview_order.tooltip": "コンパクトプレビューのアイテムの並び順です。\nスタック数: スタックを数の多い順に並べます。\nプレビュー順: コンテナのプレビューでの表示順のままにします。",
+ "shulkerboxtooltip.config.compact_preview_order.stack_size": "スタック数",
+ "shulkerboxtooltip.config.compact_preview_order.preview_order": "プレビュー順",
+ "shulkerboxtooltip.config.option.preview.generic_container_preview": "汎用コンテナのプレビュー",
+ "shulkerboxtooltip.config.option.preview.generic_container_preview.tooltip": "オンにすると、コンテナのデータコンポーネントを持つ\n明示的に対応していないアイテムでも、\nシュルカーボックスのようにプレビューを表示します。"
+}

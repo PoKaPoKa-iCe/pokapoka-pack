@@ -1,0 +1,9 @@
+{
+ "modmenu.descriptionTranslation.libipn": "Inventory Profiles Next GUI ライブラリ",
+ "libipn.common.gui.config.on": "オン",
+ "libipn.common.gui.config.off": "オフ",
+ "libipn.common.enum.key_action.repeat": "リピート",
+ "libipn.common.gui.config.advanced_keybind_settings.alt_key_label": "代替 %d",
+ "libipn.common.gui.config.advanced_keybind_settings.alt_key_description": "同じ機能に 2 つ目のキー割り当てを追加できます",
+ "libipn.common.gui.config.advanced_keybind_settings.alt_key_title": "キー割り当ての代替。"
+}

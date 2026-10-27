@@ -1,0 +1,921 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "9a78f6fee180ae4d08ea99f9eaba3ec00ee06887f1d171152b44f4de3596ee34"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "fa175af7dd30cb6c61460cb097f95fd70be41354d624cba2b75bee8255f661ef"
+
+[[files]]
+file = "config/coolrain.json"
+hash = "2d4fb0ac46c663910665cc022121de11c7ceab123ed5cfa885cea8b828e43958"
+
+[[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "d70a2efb2fddb1da9a38d074e406cb6c065c10e3d6a0b89afa621d938c95e0ea"
+
+[[files]]
+file = "config/creativecore-client.json"
+hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
+
+[[files]]
+file = "config/durabilitytooltip-common.toml"
+hash = "7d38121136311ab3482d5696267255194c30d1afdae991c872e81aefaf1e41a1"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+preserve = true
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "4fb5cb608bfd085f88021026cdd43a65b79e09271a8881f75c46e19c3f00736c"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "e0f8ab833d6b4625b6a0566ef2c1b6010368f05003508fc30f96aa5275690cd4"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "bd66edf9d1a72cd717bbe9b17b41ffd16963b089493e5ddae3d3ad69153105ba"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
+preserve = true
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "71d5e19e278cb843d92f90a99b8a9772780c62e5611b7c8cc92097cd18399b08"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/held-item-info.json"
+hash = "d3adbaca40f3bf3353b98ee95f78d6631354b6841d112492b46ff36922980f65"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "351554b5d847acfb0dcdd05a93b5b93f27035178bcbde4d5193b4dc5a5a2f11b"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+preserve = true
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+preserve = true
+
+[[files]]
+file = "config/lootr-client.jsonc"
+hash = "6df3362f318c71017bec9e99762284dd5ccb896341e191cdc18cc0724fdf99e6"
+
+[[files]]
+file = "config/lootr-common.jsonc"
+hash = "4a99d1c2a64cd16837107f9a522416e0f34908fc2775228c85a15e19e8e30517"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e8f1becee4d20e11702910e0d3eedbe35175922c6ba1a98b52efeb8c9ab3a11d"
+preserve = true
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "976a76d9aeb5c7e9c2a2293dfd1b38a850c20948ffaf813221868089e2fa0953"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "9f78cd6740c669aceea023504efd2e600168af4bb41c2f0b12caa9988384b609"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations_v2.json"
+hash = "3d731115173b34dd0fe9de6f52fa14dc271c848495a52f66c0016e24150f59d6"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json5"
+hash = "124f41f08b0b4a6e4d049c4d680134794f832bcc079e1d28b2a45b4f6c6dcf8f"
+
+[[files]]
+file = "config/smoothswapping.json"
+hash = "3edb7a3cca0e7c3ec09f642516aba923bd8eba7ca414289a4103912fd24a7e66"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "38f8aa9a8edda4e828ac05f10f70bf827849b4e45b9e371cfe5415e3a5439e6d"
+preserve = true
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+preserve = true
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "a254b8f531a8cef6ade6f1b860e80ee4cfbf5fb5905d0963c24b121c4f6518a2"
+preserve = true
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "40cf50816233c4948b1ff821460e2ed39a0d05bd8d883a1938a6e11373963dc6"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+
+[[files]]
+file = "config/status-effect-bars.json"
+hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
+
+[[files]]
+file = "config/streamsreflowing-client.properties"
+hash = "2a32c9c475cf26a41910a31dd68b83ebd0f5b2a14cb01c1fffa1fa8d1c010af0"
+
+[[files]]
+file = "config/streamsreflowing.properties"
+hash = "c0b6a62d370b365df6f183f7fe0c7562e73272bfae6f6d9e85e2db732da31cff"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "372c6b4dae2030784b499b01020e5534b1f5afe455c314b8c053ef03851d8ec4"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "89c065312f4ed0148d9b505e7e0c922bd79b5809f1b58d0d2277b5908f63b918"
+
+[[files]]
+file = "config/subtle_effects/environment.toml"
+hash = "c9590ef4b1d42e6c7b5dc6feb83450f5aeabc562e9d3af68291b4c8af2e89841"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "41048196944e4d8e58cca9139f17f438609c35733fb8e06165336f7cc9854415"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "20fb36eebeb21c9c94746da542234dda7af5d438dcecd1957b32d925d02b622e"
+
+[[files]]
+file = "config/trade_cycling/trade_cycling.properties"
+hash = "5610bec5a681bd00da2bd273f7eadc1cc03864b1059461860b8ece325db9341d"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "26063b95687c060f2acbe9be49cb1155a729d67c63f6610d50ba9a84ed4250f5"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+preserve = true
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+preserve = true
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+preserve = true
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "0587551012a8e4ea96d311f123d950ea4c4c907c561f1dc34103d44878ada0d8"
+preserve = true
+
+[[files]]
+file = "config/voxy-seam-fix.json"
+hash = "2c021527df5edd053e0e90b444a89b4cd4abf536059c4f48a034ee82c82d5683"
+
+[[files]]
+file = "config/voxyserver-client.json"
+hash = "c8241db979559ee7ead4ce44721b42179b929cfb74e36d40dceaa3a7db3b5339"
+
+[[files]]
+file = "config/voxyserver.json"
+hash = "1d254f2c594771d77ab92ebe54f885401eb1334de4448a3d64c94f0ac784736f"
+
+[[files]]
+file = "config/waterdripsound.json"
+hash = "6c19f3678260f19ee94795be0ccf28ec0f1a9c9aa5cb6dc07090d99f2505c71c"
+
+[[files]]
+file = "config/wavify.json"
+hash = "4f6a9ee5cf8b40f048cbea454c9068237a388b8ffb4c95fd9cb2ed33457fe878"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
+
+[[files]]
+file = "mods/AmbientSounds_FABRIC_v6.3.11_mc26.3.jar.pw.toml"
+hash = "af2ab71384252694f2bfe4274343b9b151e775c2c185ddeea734b8ef6b4a4893"
+metafile = true
+
+[[files]]
+file = "mods/BadOptimizations-2.4.1-26.3-fabric.jar.pw.toml"
+hash = "71fa0bdb23a0d174f4b2ab49f88e34d32846763b0ec98c21c538dab9c78d44c8"
+metafile = true
+
+[[files]]
+file = "mods/BetterF3-20.0.0-Fabric-26.3.jar.pw.toml"
+hash = "5b93cd092d0747054b030ef8f5e0eefe9c1a460398bc5ba325ada6df849e97fc"
+metafile = true
+
+[[files]]
+file = "mods/Controlling-fabric-26.3-26.3.4.jar.pw.toml"
+hash = "964dbb1a495bfedcb5b3b5dfdd3abf75ca0e453c9e16ca854662aa83193971af"
+metafile = true
+
+[[files]]
+file = "mods/CreativeCore_FABRIC_v2.14.24_mc26.3.jar.pw.toml"
+hash = "1b1a68ae73c628b9e565aecc03cd59fc4f03ed04ef6fac72dc2440ee9ce5d6ee"
+metafile = true
+
+[[files]]
+file = "mods/Drip Sounds-0.6.3+26.3-Fabric.jar.pw.toml"
+hash = "6d670f6ded75acf734a566a49836f68ab1a5b8761bd0e408f7313f0bb686386a"
+metafile = true
+
+[[files]]
+file = "mods/EnchantmentDescriptions-fabric-MC26.3-26.3.0.2.jar.pw.toml"
+hash = "ac1a6d65c10e368fec0aa6d624e9f36fa7ae194481dc434c9679a791723670d2"
+metafile = true
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar.pw.toml"
+hash = "7f36ad2017e3039997c25a270c279595d4458cda54075e3281a4aeda99ab3b59"
+metafile = true
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar.pw.toml"
+hash = "427b0321b742bea8d45399d7cfe47a3186accf593c9fa59646503d386e0d5ea4"
+metafile = true
+
+[[files]]
+file = "mods/InventoryProfilesNext-fabric-26.3-2.3.8.jar.pw.toml"
+hash = "7371a10d303e8b5b886d2eb4c67e0a4413a699dedea9511c0b30337c7fa6ad5f"
+metafile = true
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc26.3-2.31.jar.pw.toml"
+hash = "7f6757887983c40d5fa5ec7ea04b750e18640a4bb5801ef37b63c525c5b80869"
+metafile = true
+
+[[files]]
+file = "mods/NoChatReports-FABRIC-26.3-v2.21.0.jar.pw.toml"
+hash = "5327e66e545bf07e05e286c49da6e9dc94569be385c031d0415209ee81889b28"
+metafile = true
+
+[[files]]
+file = "mods/PresenceFootsteps-1.14.0+26.3.jar.pw.toml"
+hash = "3ade38b086502026240053df7199b4bb20dcb3bb198a03b82a08ad54acf37257"
+metafile = true
+
+[[files]]
+file = "mods/PrickleMC-fabric-MC26.3-26.3.0.2.jar.pw.toml"
+hash = "11ee7e943a221064e61aa8df699fc770c29d114816defa54a83b532e1da1068a"
+metafile = true
+
+[[files]]
+file = "mods/Searchables-fabric-26.3-1.0.3.jar.pw.toml"
+hash = "38e0d1a4ae0e0fb3a4e6e8ce5f84699c75a56c3f2a01cad851f9676a1287278c"
+metafile = true
+
+[[files]]
+file = "mods/StreamsReflowing-26.3-fabric-2.15.2.jar.pw.toml"
+hash = "83a5d7c68e5d17fc4cfe58cd2b13aae96bb2aa653ebf1ad18e8068c33daeeddc"
+metafile = true
+
+[[files]]
+file = "mods/SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar.pw.toml"
+hash = "8e2bafe38e4c0b6b16ecefd20266c03cdbe7ab80bc1dca9ce3a8c2922e9048a0"
+metafile = true
+
+[[files]]
+file = "mods/VoxyServer-1.2.5-36.3.jar.pw.toml"
+hash = "57a0ac431f2f0ba6689c1be492fa5836b1800921b591d482f3aef9100521cae4"
+metafile = true
+
+[[files]]
+file = "mods/appleskin-fabric-mc26.3-3.0.10.jar.pw.toml"
+hash = "fecae4ef5982067c6749bcd163572a5a5ff857e538abf0eddae8610c490a66f0"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric-26.3-26.3.0.3.jar.pw.toml"
+hash = "14573c7774aedc66e4a54cf656b9bf551ddd98ac67534112609e8a88f712f1f1"
+metafile = true
+
+[[files]]
+file = "mods/bettermounthud-1.3.1.jar.pw.toml"
+hash = "1fc31db3346582d72f7d41ec1a95d24bac9dbd5f5b6aa9450b4a533bae633a7c"
+metafile = true
+
+[[files]]
+file = "mods/chat_heads-1.3.2-fabric-26.3.jar.pw.toml"
+hash = "5fce897776ef451537b21e98b22f61253e5ec20506940ed59c747a655ebc8e78"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-fabric-26.3.159.jar.pw.toml"
+hash = "19fea277e936e2f7cab73d0da70107d96917c08f45000ea02fe9af4d5bd0f8ab"
+metafile = true
+
+[[files]]
+file = "mods/coolrain-1.4.0-26.3.jar.pw.toml"
+hash = "86b18c322913228fa1b462fdc5214b969ece3ecf1c49faa47ac3501544d7af5d"
+metafile = true
+
+[[files]]
+file = "mods/craftingtweaks-fabric-26.3-26.3.0.1.jar.pw.toml"
+hash = "c92ead40aeb4712d61ce2579dc07dbe0ea16a56e48b2e7383e6b48ae7818b70b"
+metafile = true
+
+[[files]]
+file = "mods/cullleaves-fabric-4.1.2+26.3.jar.pw.toml"
+hash = "433aa64e3d481e6304f73970b6a12aadd9a5254c5b8345fdfd8cc10045037437"
+metafile = true
+
+[[files]]
+file = "mods/debugify-26.3.0.0.jar.pw.toml"
+hash = "9ef61c249d483b16f25e891634e7282bf1513f3c9270f596734fd1fe72fc012f"
+metafile = true
+
+[[files]]
+file = "mods/durabilitytooltip-1.2.0a-fabric-mc26.3.jar.pw.toml"
+hash = "616cef4509c7ed76eb0c131fb0700a55252d0d6638705ddd0958088c1a7d9aca"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar.pw.toml"
+hash = "7c5d3f3e16e6b9f91cd82148bfd3b6be73134112e152ed89e0e4167c0ae053ca"
+metafile = true
+
+[[files]]
+file = "mods/entity_model_features-3.3.12-26.3-fabric.jar.pw.toml"
+hash = "be6e448ce74827a2e4744e7b4d45697bb649a19619917814e73471de7d7c73d1"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features-7.2.6-26.3-fabric.jar.pw.toml"
+hash = "00a7e20de013c38c69c9aa868c61617e380929aca4728403da0a89a0c06a79f5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1.11.3-mc26.3.jar.pw.toml"
+hash = "fc0311400199d9094d7a936fbd5a9fbfa8d7e3b00767b764797c522c45c6b184"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.165.0+26.3.jar.pw.toml"
+hash = "a688dfef4061623905d2e9b823cced1c9a71b969a72d529acf4aaaf6f5818c63"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar.pw.toml"
+hash = "8e8a8e29b9f6c05ae8d805264fdc7fa659fe1b34841b32660c206f3fbb1e2247"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu_fabric_3.9.14_MC_26.3.jar.pw.toml"
+hash = "313c81603e022341e63594d9f0cc42dad051cf77f89687aac115557e9b97aec2"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping-v1.0.12-mc26.3.jar.pw.toml"
+hash = "6d2deb3825f0cd162afb775abef3e30e436e154c0109221a6fbc0a111e0d9c4d"
+metafile = true
+
+[[files]]
+file = "mods/fastquit-3.1.5+mc26.2.jar.pw.toml"
+hash = "435a8a8f064c7be9b69bbe0b017d5d8c4e0c30cfd1018cdeff2ab8306723ad71"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-9.0.0-fabric.jar.pw.toml"
+hash = "85bcaa74b50444e008447faa7020d75c13caaea00d4e8c8ed22fd4c1ac6200fc"
+metafile = true
+
+[[files]]
+file = "mods/fzzy_config-0.7.7+fix3+26.3.jar.pw.toml"
+hash = "d21f5a41fbd3f42b08947ea1f29ea54c0affdd76abeb62a828712ab742c47233"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info-1.9.3.jar.pw.toml"
+hash = "1acc055dc9b5470d9ff913fa5fb7a7de441efa337f849f1f5f15b10219f83612"
+metafile = true
+
+[[files]]
+file = "mods/iris-fabric-1.11.7+mc26.3.jar.pw.toml"
+hash = "335605823c7858ab71ac52c4ecc9ec98f96dd8f1daf92edf327a33e560b6c419"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-fabric-26.3-6.0.10.jar.pw.toml"
+hash = "d601afa590bc79aa87d078819dc3cea879dee13c98acacb87e57ad8b9febf75d"
+metafile = true
+
+[[files]]
+file = "mods/konkrete_fabric_1.11.1_MC_26.3.jar.pw.toml"
+hash = "21a31e54484ae46097743d9205ceb094c0a3bc90e18c39eb6052f4b4f9164a79"
+metafile = true
+
+[[files]]
+file = "mods/krypton-0.3.2.jar.pw.toml"
+hash = "26b32dbc74dc678ab37bd908bcf770e45ceeaae9a2e2a7bd64050c1415b0eb3b"
+metafile = true
+
+[[files]]
+file = "mods/language-reload-1.7.8+26.3.jar.pw.toml"
+hash = "deb64b3d4c15bfc17226868eb62c7268f7575e576a8400dc0dcfbcc63ea63d3d"
+metafile = true
+
+[[files]]
+file = "mods/libIPN-fabric-26.3-6.9.0.jar.pw.toml"
+hash = "b52730a4472d275de3776d80e2a7ad343bd0bc968fb6544c6f61def7d55b51a7"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fabric-26.3-1.25.42.124.jar.pw.toml"
+hash = "37683b60aec469d2cafa8a719869a24ad78a2ea6b96bef62ba754042b76da20e"
+metafile = true
+
+[[files]]
+file = "mods/melody_fabric_1.0.17_MC_26.3.jar.pw.toml"
+hash = "b3875a9e087761e8f31e4c21b420c8eb2e34794167eca64d384edda66f7f222c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-21.0.0.jar.pw.toml"
+hash = "e8b22aa11c3346f0d564d60dd2dd8be99b40f99b6c534cd6a6ae3b5f7ef02259"
+metafile = true
+
+[[files]]
+file = "mods/moreculling-fabric-26.3-1.9.0.jar.pw.toml"
+hash = "b776d722f81556160ce545acd572fa7ecee9c9ab4980b3fa1cda46dd4a1a04df"
+metafile = true
+
+[[files]]
+file = "mods/particle_core-0.3.3+fix1+26.2.jar.pw.toml"
+hash = "69a62eb755ae0f3867854ad9402c8e107408bc82a2d6325b359f2aa166e1c096"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api-3.2.0+26.3.jar.pw.toml"
+hash = "0ea1bdd8f288907fa275ffee3edffd6ca68b7df23cdff870be3cb4575f536a36"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v26.3.16-mc26.3.x+fabric.jar.pw.toml"
+hash = "4d480b68ea3f8be4f93eb6e6e0479f38bbf371ae535c2e58bac56ba7694145cb"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options-fabric-2.2.5+mc26.3.jar.pw.toml"
+hash = "4810de5261ef6234fd38b9c90d880cf193b42491a33cc29f68e0dc6a59f2edd3"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip-fabric-5.4.2+26.3.jar.pw.toml"
+hash = "0d7d99ca86dbf0b82dda5a90f830428c42527e83ccbf8a4980bda6aadb812f84"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra-fabric-0.9.4+mc26.3.jar.pw.toml"
+hash = "12edca738588fe7d5270375ea40ba30069020713b785fe0fe3d8dad27ba99352"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0.9.2+mc26.3.jar.pw.toml"
+hash = "95afcd13ce17f58d027ce86d54fbfb094669d7c6d2387777c4432dae0bf88bc8"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered-fabric-1.5.2+26.3.jar.pw.toml"
+hash = "55be008ff35cd777658fc7b3113a0e489c2ffd79fc116b4014eda7f2e89b86cb"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars-1.0.12.jar.pw.toml"
+hash = "3fdd3e83b525d0dbc3298fd645240d24e4ecf63c8b97cc7b46891cbf80459dd8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8a-fabric-mc26.3.jar.pw.toml"
+hash = "532afb7d8a63454fd1bb332084ecaa35ba086f199e25525a5095ef395cebe00b"
+metafile = true
+
+[[files]]
+file = "mods/switcher.jar"
+hash = "b6fd35fd90ae33bec5262c746506f85d4ccd66b8de232be58309daac94260b9e"
+
+[[files]]
+file = "mods/trade-cycling-fabric-1.0.23+26.3.jar.pw.toml"
+hash = "a6064119c4aaea61e1de974664c3d72e3aab1e8e42b3a40da388a5388647cf43"
+metafile = true
+
+[[files]]
+file = "mods/visualworkbench-v26.3.0-mc26.3.x+fabric.jar.pw.toml"
+hash = "3bed660b273f70e853d8d5fe8f7e7efa88ccd6b1bffe1b7054a6fccd27346db2"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-fabric-2.6.26+26.3.jar.pw.toml"
+hash = "8533b9a789003356a9dac2ad3369ceaba6731f9eef7fa4ad044cbf51ded1698b"
+metafile = true
+
+[[files]]
+file = "mods/voxy-0.2.20-beta.jar.pw.toml"
+hash = "1333cf6a9f0c6e4f96ddbdbbea5b487634fe39ff8969c2ccafa777cfae63f42e"
+metafile = true
+
+[[files]]
+file = "mods/voxy-seam-fix-0.2.1.jar.pw.toml"
+hash = "aa058a7e9cdb5bf96cf1985e7518264b0d25d5f2a90d1870f34ab4df764828e2"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar.pw.toml"
+hash = "1c14b36bf03a049eb08dbf1c56b6bf4ab81ad15a610964de8e2853fb4ef6475c"
+metafile = true
+
+[[files]]
+file = "mods/zoomify-2.17.0+mc26.3-universal.jar.pw.toml"
+hash = "b5624609c4cc5fed85e7b3bfebe2582e690e141a8c88f196aa2b0e418164366d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.11.1_26.1+.zip.pw.toml"
+hash = "08fde046d2fadfe268dd84e0b9f584c7feed3d322080240cecc28cf5c909706d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Optimum Realism R4.2.0.zip.pw.toml"
+hash = "91ef6786eabf6a8d7d777cb4ed2ce62fcf39be04ff0a823d1e583d41234b8d6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Pixlli V57 26.3-1.13 128x.zip.pw.toml"
+hash = "9ca4fd11b17679b2e78f664c6fceb3d481b0dfb8450b09cc0b2eb11195acbee9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full.png"
+hash = "a6c9e30e582a1b039c840914f9976ff3d2a0c3f72b44153f228498ab74a9413e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking.png"
+hash = "9deffc60ec3b58639e41037132f94d6d55e26e3f2e84e208ec3835731f70d037"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half.png"
+hash = "52eba64de14bf94d48bdb2e36a529c29c65d8588e57cf274531c2358b4adffcb"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking.png"
+hash = "b524696025479f5f8d8d4d99d2a6d68f88775bba2460ef0694eb9d376e863eee"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full.png"
+hash = "6f0e5b017a98fe6dce1c91dab5af745ff068fefbf7f5c2115e03cf23ff15d3ed"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking.png"
+hash = "f656ff04f68ed969ce299c32d5f9d0a2224398e4c57d5b1b7c9ac01a5c3a16ce"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half.png"
+hash = "4a7be20a7779ffa115f148c9cb06485b9f74b9ded8e9f978dd12f32982e1f220"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking.png"
+hash = "479142193f35b5f9322a2ab4fb7c335c6819d42ec2abbf7d56f90bad0c7c67cf"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/title/edition.png"
+hash = "ca5de485b94ec28d85e83a70df6704e4d08bf9340c5c7ff726242bb295b70235"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "769c2ba846aac04c32f842154fe7763511eecb63885202e67fbeacc4ad07fb4b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/pack.mcmeta"
+hash = "4603d1354a8c7d590b0450601949b791e7326262465111429e43df5b44c3ee37"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/pack.png"
+hash = "3a3ff1e68c8019a615e0f0b34c57df6811e96d9cd22a3698c724c0519bbe18d5"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/balm/lang/ja_jp.json"
+hash = "8e50764ab60f520ecfa917cf397ed118f325bcaa36ced3e93e83a2e13aeafd21"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/chat_heads/lang/ja_jp.json"
+hash = "b291ebedf84e0a886c06512ba1b96d5ba8b092ad8d379c69bd60ca807f3cd504"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/cloth-config2/lang/ja_jp.json"
+hash = "7a796aa7dc5e2069aadc96552ad643bf16f8b4917113f30b1efa30358ef74d4b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/controlling/lang/ja_jp.json"
+hash = "0e524a40036f8c71d1acb5a47b6124fa25291c29336d1aee0cdffb922ebbb05a"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/coolrain/lang/ja_jp.json"
+hash = "d80fadf728c2512ad89ce59de059f98750cec8a19536ff1ff2bfee3dd999ee64"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/craftingtweaks/lang/ja_jp.json"
+hash = "447b4e749f1775ed3f62bbeef588629384f4596a7377ad18b855b8689774eec5"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/creativecore/lang/ja_jp.json"
+hash = "d7f8763977c72416903112ef91912d82de50b62e271fb67ba7713b99ef5a32cf"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/cullleaves/lang/ja_jp.json"
+hash = "f7e87ef88f54e9829779d1a97db23a9d52d66ccc4f2384155c384710d2608d16"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/debugify/lang/ja_jp.json"
+hash = "898c544e480c82ea9cfb21e27916e22bd84c1402428759fa4cccbc56e3ea0ed6"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/durabilitytooltip/lang/ja_jp.json"
+hash = "245a9330c3511a7f319f93f49f7d01f6abc5416288fc97d3944bf4037ad3a90a"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/enchdesc/lang/ja_jp.json"
+hash = "8628cc520899048acc63a064e6ea326a16485d315c4118baaed8df38957cfd13"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/entity_model_features/lang/ja_jp.json"
+hash = "2f0ea053acd0c99d106dbee5a0ee5134d235395013da7634094a2156b04bcbee"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/entity_texture_features/lang/ja_jp.json"
+hash = "7df2d221652e008614750985f633388b0dcdcf5e6f1fecd908d6231fb3f7674f"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/entityculling/lang/ja_jp.json"
+hash = "19f7a3a0c59fb8ca20ecd354d9f5ee7994f9feea91abe86ef5c4ae1995b3b834"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/fancymenu/lang/ja_jp.json"
+hash = "68cf599967e05d8368f978baf382835ef77865bd16a226141a72f9009697c6b4"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/fastquit/lang/ja_jp.json"
+hash = "d0a42184e31237709902058a65e296691f2998366df7cb184bbacc1fb23434d1"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/forgeconfigapiport/lang/ja_jp.json"
+hash = "181cd2999af1a021dafcbf5077a0c201ff7885ace5bae2614988e9140c209ebf"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/fzzy_config/lang/ja_jp.json"
+hash = "8fc6aae54e3b0ac7a4cf8c4107d17a8d6387518c4a84957649998f99d7489315"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/held-item-info/lang/ja_jp.json"
+hash = "31f2c6e88e0cfccb9c19992bf6d6613f3e2bb39a47f1c92642313311672e0d0e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/inventoryprofilesnext/lang/ja_jp.json"
+hash = "06236a738739c3cb00e74003f5027958c8ff6b2ef9fa97052bf9dd7f2c79b4c6"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/iris/lang/ja_jp.json"
+hash = "dc01d8add1bbe47998a9865f389c22c1625949ee832e59dadbed375948493d12"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/journeymap/lang/ja_jp.json"
+hash = "4dd5fc0e967631a1d38da278614230120d00787939f8fd49f3ae650a2b726586"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/languagereload/lang/ja_jp.json"
+hash = "4bba59e2d199d6d811b67e2074c9fef14b2919651bf1627b2f30d53129a9fffd"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/libipn/lang/ja_jp.json"
+hash = "079b228dd833b99b5cb995bf5840045e603b9dfdae1636cc69191b95739e4622"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/modmenu/lang/ja_jp.json"
+hash = "f7c9675a3dee4a3957869f9b0bf93e3bee0924bab2124dd493d532ac51e21aca"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/moreculling/lang/ja_jp.json"
+hash = "1b5422ea287d29886e5bbda119f578bd581668e60a7d1b45c927a33bb8c6acb3"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/nochatreports/lang/ja_jp.json"
+hash = "0aa9fa8b35417380b6d10fc9c7fca66109cc47a2838dc16925399ce97a6b2941"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/particle_core/lang/ja_jp.json"
+hash = "254e284d5302c6f4a68b83b9a58afde256c1aa5dc0b7c4d3bc4aa9c5855a9ec4"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/placeholderapi/lang/ja_jp.json"
+hash = "4fbe7745cf5570f58ca4c29b3fc5429caeacb184ceea3b741edd34a853f54e1f"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/presencefootsteps/lang/ja_jp.json"
+hash = "68906840ba225fdfe4d01a660ed227a7c9ea5279378e0432af72c6d67a257ce5"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/reeses-sodium-options/lang/ja_jp.json"
+hash = "442976307a2e38f0aa73c2b9062bc547001250acb2d9ede367b5e8b3f3258004"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/searchables/lang/ja_jp.json"
+hash = "a43f1d289161e08c6c98b72e737f1057a1fca8bbdb99b736dcf52bcfdbd5ef95"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/shulkerboxtooltip/lang/ja_jp.json"
+hash = "74684de186f557e6b7e6d2e47f6fafc41c33f32fda76417e99f072d3e18052da"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/sodium-extra/lang/ja_jp.json"
+hash = "07937a9022f32d13607bd391ec04f3aab0687356028058925645477ac82eb6ad"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/sodium/lang/ja_jp.json"
+hash = "55776cdcb44e6c0eb13d8af450b434cfd790df35a1765871afc73107348c054c"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/sound_physics_remastered/lang/ja_jp.json"
+hash = "be1f37abb87874acb62aa94c20081e58a4c8a880ec23da0f6471ef97ceafe11d"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/streamsreflowing/lang/ja_jp.json"
+hash = "ca8e372325e7da1d8ed54274bb7247ecd83c2b9e931c527be8074f9b79dfbaed"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/subtle_effects/lang/ja_jp.json"
+hash = "8605edfcd319787acd2b290701406a905ffcf48e44fda240e6d9bb890977ba7b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/trade_cycling/lang/ja_jp.json"
+hash = "a5b9f6d4b15ca8ef142d83effe5cf246779b1703532f20f815856ef45ea1928a"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/visualworkbench/lang/ja_jp.json"
+hash = "b4dd556ea0e104fab3cd766aea370cea81277eba24ad1254a71044a3612105b4"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/voxy/lang/ja_jp.json"
+hash = "ccca6a3f7f5e2f29fcaf9cc2f0271fa0e589a528b5d15729c607150a633b6e54"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/waterdripsound/lang/ja_jp.json"
+hash = "2556b635bdab62c48d792ebcbfd1bbdf4edd77628bc488855ee23f89734fea29"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/pack.mcmeta"
+hash = "9e5468b76756c3e9fc15d003ee4e8c7f6910bcd90481c695b0ae96bfe3ade84f"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/pack.png"
+hash = "3a3ff1e68c8019a615e0f0b34c57df6811e96d9cd22a3698c724c0519bbe18d5"
+
+[[files]]
+file = "resourcepacks/Prime's HD Textures 32x.zip.pw.toml"
+hash = "2f957fbaddddc178b76f8546cc7a603b3b3fe1d5007d0c0d6a7a432184d4dfb1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/SPBR-22_5.zip.pw.toml"
+hash = "44310687ef9c2b346248d6a8860024137850ac96a3b0465a12c8eb397bbc3f1c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Simplista 64x R36.zip.pw.toml"
+hash = "63e02eaa417bf10cd89f915a014ec46bd352d24464f9426a2e0f87b36d0c6682"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rotrBLOCKS V88 3D Foliage 128x 26.3-1.13.zip.pw.toml"
+hash = "2680501566ffe4aac9343a3e6ecce9542b1bfe022619f99aa18d907ccfd3899c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/I Like Vanilla v1.5.0b.zip.txt"
+hash = "d7c1cfdabe0f981a03e755f05ac541205bf7a79e76001925335a7b82b4556657"
+preserve = true
+
+[[files]]
+file = "shaderpacks/Mellow v3.4.1a.zip.txt"
+hash = "37f570b5855f95bd8594955be703da09fe5af412c841bea05fa978d16b007afd"
+preserve = true

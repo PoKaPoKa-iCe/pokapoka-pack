@@ -1,0 +1,8 @@
+name = "SPBR-22_5"
+filename = "SPBR-22_5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/1Qa8o7mE/SPBR-22_5.zip"
+hash-format = "sha512"
+hash = "114ab9d216666a00ad6a5d7c052cff573a0cbf247b51d8d45187449546cf2c247bd8a3e1855c2ff2333ba46727895f2236b6e9e0d47a16322a28611b473e402a"

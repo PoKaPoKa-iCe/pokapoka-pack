@@ -1,0 +1,8 @@
+name = "Optimum Realism R4.2.0"
+filename = "Optimum Realism R4.2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbhXFk8s/versions/uLkbXbdI/Optimum%20Realism%20R4.2.0.zip"
+hash-format = "sha512"
+hash = "e8e5d5c96241a0783ae222053e54c7b537fbcff3fc13acc1f3899d2d6d8ee975dcedd9d7a0e35a12bf65535f75dc10ceffff4a53d680fbce0a6d95dc07d4759f"

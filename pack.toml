@@ -1,0 +1,12 @@
+name = "PoKaPoKa's Pack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a801a6ef519344b78d182f725b3b174d27897902eb53f613edbc014ac4907cc2"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

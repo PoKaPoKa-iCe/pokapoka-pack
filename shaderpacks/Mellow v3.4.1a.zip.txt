@@ -1,0 +1,3 @@
+PBR_NORMAL=true
+PBR_SPECULAR=true
+PBR_POM=true

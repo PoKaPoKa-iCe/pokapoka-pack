@@ -1,0 +1,22 @@
+{
+  "enableOceanWaves": true,
+  "chunkRadius": 5,
+  "chunkUpdatesRescanAmount": 50,
+  "spawnDistance": 8,
+  "waveOpacity": 1.0,
+  "foamOpacity": 1.0,
+  "fullMoonGlow": false,
+  "colorSource": "BIOME",
+  "customColor": 4159204,
+  "biomeColorOverrides": "",
+  "enableWetOverlay": true,
+  "enableRiverWaves": true,
+  "riverWaveSpawnRadius": 56,
+  "riverWaveDensity": 4.0,
+  "riverWaveTravelBlocks": 11,
+  "waveYOffset": 0.0,
+  "riverWaveYOffset": 0.0,
+  "shaderWaveYSink": -0.3,
+  "enableWaveSounds": true,
+  "waveSoundVolume": 1.0
+}

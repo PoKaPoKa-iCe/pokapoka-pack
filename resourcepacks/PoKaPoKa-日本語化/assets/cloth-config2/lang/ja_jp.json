@@ -1,0 +1,6 @@
+{
+ "text.cloth-config.disabled_tooltip": "無効(条件を満たしていない)",
+ "text.cloth-config.testing.1": "あなたは MOD 開発者で %1$s を使いたい? %2$s で始め方を確認しよう。%3$s こともできる。",
+ "text.cloth-config.testing.2": "Cloth Config Wiki",
+ "text.cloth-config.testing.3": "特に理由もなく Minecraft のオプションファイルを開くにはここをクリックする"
+}

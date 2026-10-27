@@ -1,0 +1,8 @@
+{
+ "key.presencefootsteps.debug_toggle": "デバッグ情報の切り替え",
+ "menu.pf.report.full.tooltip": "ゲーム内のすべてのブロックとエンティティが、どの音を使っているかを出力します。",
+ "menu.pf.report.concise.tooltip": "ゲーム内のすべてのブロックとエンティティが、どの音を使っているかを出力します。（簡易：音のマッピングがない項目のみ出力）",
+ "menu.pf.report.acoustics.tooltip": "アコースティックのファイルを現在の形式で書き出します。リソースパックを更新するときに使ってください。",
+ "pf.debug.toggled": "[Presence Footsteps のデバッグオーバーレイを表示中。%s + %s を押すと閉じます]",
+ "subtitles.pf.sulfur.crunch": "硫黄がザクザク鳴る"
+}
