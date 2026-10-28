@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/switcher.jar"
-hash = "b6fd35fd90ae33bec5262c746506f85d4ccd66b8de232be58309daac94260b9e"
+hash = "2963ea20fb5ac06e22d58ad2517f1d4d46cd6819027f72ef2163f0028922061d"
 
 [[files]]
 file = "mods/trade-cycling-fabric-1.0.23+26.3.jar.pw.toml"
@@ -667,36 +667,376 @@ hash = "9ca4fd11b17679b2e78f664c6fceb3d481b0dfb8450b09cc0b2eb11195acbee9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/experience_bar_background.png"
+hash = "f5373896a256017b031f117fd10e9334cae7228b0ffe4513a02f6f33504d9a9e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/experience_bar_progress.png"
+hash = "664caca29ff5a0ee9c9643d88162b900c2c10e8a4f0a82303a78d4ec9510ed02"
+
+[[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full.png"
 hash = "a6c9e30e582a1b039c840914f9976ff3d2a0c3f72b44153f228498ab74a9413e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_0.png"
+hash = "02f9f2384d9f7a83ca9dada481b43cd8f0364a78d9664df14ad3a79a993a04f4"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_1.png"
+hash = "60052d12a42f5c80b5a1bd86ffae5d8b8d354a74ab51f1ad8fb0a9f94c13ee34"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_2.png"
+hash = "3bb54e054f3493f4fa3f513e377ff40ed58cf57d196627361fe5e3b43e52be4a"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_3.png"
+hash = "b748da00269cee5a48f78e286f4dc5f0f702888b1272950a1dbb4127abba2c8f"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_4.png"
+hash = "4eae6092e5d25a274dc12b92c91f2c7940c60f8cb6cd0243428b1c05868250ab"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_5.png"
+hash = "d58ba09e3b1b70a9b18ffd3d3cb9fb4dc5689981ac40c9750a6acf83300cb0fd"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_6.png"
+hash = "ab91de1789ac8c79905c6ce0d244d59c24b30327ee61cd412af965be635904c5"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_7.png"
+hash = "3f42a72bb17e5d84f82b7350a766d5b6c2321aeac544f069ad519292ef8c5517"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_8.png"
+hash = "a6c93bb17ab446fd65908d5305a68f81385c49d777be6e8c2b03c1d4c301344c"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_9.png"
+hash = "9308ec361c8fc5c8eae57758b2893ec03120575c53aa6504f507d3e4b719244c"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking.png"
 hash = "9deffc60ec3b58639e41037132f94d6d55e26e3f2e84e208ec3835731f70d037"
 
 [[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_0.png"
+hash = "eeab8c0890ab2d6c818dd38cf68393014cb1220585737f7eeee07f5ab3017a6d"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_1.png"
+hash = "a6b242d1c318514a7d53e91f68ad36b2a92720155769cb8e17c49a1555c27a22"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_2.png"
+hash = "64affe9b60600a80c56a42d342a15854b8235fd339b864eb66cb27c04c5968d9"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_3.png"
+hash = "a72dc729e57d78da04685ded4924bddf2012b2016af17019e50b8b8b88cb893e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_4.png"
+hash = "89d6892b5953917b0b89ff6c8c15d42da2766c1a170099841e79c836a7c21bd2"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_5.png"
+hash = "4385e4771b6f262941aadf10ddd0b3991478bbb61de4a0d837ae8a1967c8011e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_6.png"
+hash = "440a9301afc7b811e2b1dfda8b36c4deab2563aa4cf8d8193873f576e54b4266"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_7.png"
+hash = "3c859df71f376cddd18519ce344d3e0b8e691c8c4f1351a128e516eca587f226"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_8.png"
+hash = "9124644dea43ef2e787f7932ee0db93f0053240df51bf4c1267dfff481bf5409"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking_9.png"
+hash = "7e6a9727e032b90fae49ba23b4571f78077ebb4c8f40aff20a7f367166c23668"
+
+[[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half.png"
 hash = "52eba64de14bf94d48bdb2e36a529c29c65d8588e57cf274531c2358b4adffcb"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_0.png"
+hash = "48850af5cbed243d58b3a659a3fe35a27c2e7d46af43c854f204e7d06a04e707"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_1.png"
+hash = "1a75b94b8ed26a2274113d8cf5b9beb77acf660367b7f6713d81a7534ef18c2b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_2.png"
+hash = "dc6aa322cd70a2ce7da1215ef774328d222592598d587758e90913bfe315d301"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_3.png"
+hash = "f3ecb9a3dd33eaa50ce46af8fda1056f7c6c355a0cff2838a0940fe1fe61b6fc"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_4.png"
+hash = "445b55d9d4b1e2b36fdc876baf6df41d84013541d89ce0c968989c56754e80f5"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_5.png"
+hash = "7f02c02989765f42bb5569ed4e2cea5407278b6201476db87c7e2aceaf361d55"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_6.png"
+hash = "1a1959e4858add8d2cf2b29c85b1d9734cf3d307c17763b0d3edaf75580285ad"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_7.png"
+hash = "539a826411a8404cec7d9a33e3aad76e83d4598647180ad2f7aaf98886cca9c1"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_8.png"
+hash = "e96b6cd9e4e3840cb51b75b55fd6d512e054b7e269ec0fdd21ea826639d3c33a"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_9.png"
+hash = "26a19d575e439119d96b9403df0a5511bb1f137e8e5a7b86db4f410f8b32bb7d"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking.png"
 hash = "b524696025479f5f8d8d4d99d2a6d68f88775bba2460ef0694eb9d376e863eee"
 
 [[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_0.png"
+hash = "33b04fb40dd356400444fe1b86a8bf912f16dfeeae617128b337ffb87043f221"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_1.png"
+hash = "277452b8386bdceb0460e828e85bd5ec6cce536c4f122b98942f0e5ca563d3c5"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_2.png"
+hash = "49fac403ac8f4aa6184b865f1f3830c58cae870f744b6c93a5d034633fb6d515"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_3.png"
+hash = "d57ea25f360fded3f1c2fa833defca6fc80689620e4695f0a04188c00f475f7c"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_4.png"
+hash = "4a5dbe02284b8de150359bfb1f203557149bd7df65a80dff450ebb4cc6e93cae"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_5.png"
+hash = "e8fc9df1912bd8fab422f919d4bbfc2fdeaeaea0cde6cba5c6c8e6a5b24c6bf6"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_6.png"
+hash = "699f3d806f2631be1352e113475af9253163742a2f4a4a2119b414d1c9f79a0f"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_7.png"
+hash = "56f6b2804daefdeb2abb3e0c8de8026c1c8d2a0bf30ca7285bfd299572f84644"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_8.png"
+hash = "318a377f8a3771680972b965ae5e8fcd21ba4e2e2bb62e74352da19c65dd1297"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking_9.png"
+hash = "96f1f0191601a450c322c62df3753296f95559052037753ab830bd8f397fa540"
+
+[[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full.png"
 hash = "6f0e5b017a98fe6dce1c91dab5af745ff068fefbf7f5c2115e03cf23ff15d3ed"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_0.png"
+hash = "cd32287669c9cba7aae78a1b57cf325d18724468c76b3a406c376ec55a0635f0"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_1.png"
+hash = "8a46a4f75abed37bcbdf4cbe9638ffadc1c30caf02c5289b57885b0cca1205ed"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_2.png"
+hash = "1914eee4d99aa44b4c9f86cc99a60b31be1ca79be83400d10fff5ee3a9aff33c"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_3.png"
+hash = "22642fa50ad3c833887491e14932c86c9c2f8e3e3928e223b22865f60ddb583e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_4.png"
+hash = "5436ebade685da02c92985cb3f11bc2bfd7dc8332c8e04297358f37853287884"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_5.png"
+hash = "65ba45dc4e23668fcaca64df0addff924bc70f07fd0a6405f813e1a804446231"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_6.png"
+hash = "7352b8e3e90c37f533cd91f1ec1ebdcb0cdda9381b33563c0db6e96fe9e2e1a3"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_7.png"
+hash = "9f07e62bceb5280f7755fe0ed9ffc2ad1f26694d4ccbf9c9afe2cbbd754ba958"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_8.png"
+hash = "c30512e3f6cdd3abb503923bf207ef90768ecab503ca662863b51798e3fab0db"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_9.png"
+hash = "d9364cc8e2f50525e14605ed63ce03ae01dadc284cb6def7354893e2bc9bc974"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking.png"
 hash = "f656ff04f68ed969ce299c32d5f9d0a2224398e4c57d5b1b7c9ac01a5c3a16ce"
 
 [[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_0.png"
+hash = "6632b46780315eaad57ee1efc3c55656497ffa73d57c299409baeb29e93a97df"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_1.png"
+hash = "dfe781886b6391651f81a498ac306a92947dcd0d506bf2b0abe4b784d2299821"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_2.png"
+hash = "aa28e12ae371886ec83daffc2eda0a2f842c02459adc994c2f2394c1c412fb0f"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_3.png"
+hash = "051c7de08d2e55e70c78c9e58adfb622456a59cf8cd2ac47ecd1ed7d096c5c50"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_4.png"
+hash = "1de228e063babb0fd01c2fcba28aa528c5ced6aecb1df920f08d94f57a9e5759"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_5.png"
+hash = "7c96e24df84c4b50bbc58ad9980cba328cf5fe24189a8fba45d693bb95043ae0"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_6.png"
+hash = "b57356da90220985b1e916a65c5483e2bdfc33a3dfd7b19f02d0068d74db3186"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_7.png"
+hash = "7bfb77669a9c4c4b35157e4913fa9a8f14a7818e34b448b0286cbb20648b045e"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_8.png"
+hash = "ba102a97f38bbbde46b07e3876c57ad5df99d7a7a0fde61b3eed4b5277edab12"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking_9.png"
+hash = "3bf47b8aae1fc8e8d2c6c5a7d73010de77f2df2a4c4ce40b8de1f7828eeb2429"
+
+[[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half.png"
 hash = "4a7be20a7779ffa115f148c9cb06485b9f74b9ded8e9f978dd12f32982e1f220"
 
 [[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_0.png"
+hash = "64fa3fdbd01cbad2c24843074ff203be1ccfd09e6c51ec4774a6a3c8dcc91491"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_1.png"
+hash = "20ef60895be088252fbab559ebbac5b009691c0c7ac35e70fdbeb329f2f42d2a"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_2.png"
+hash = "dbe37180bd56bbdd443656909a96833995bdddcbed3fcdbc8cebdb1d67a2922b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_3.png"
+hash = "d68c9a4cad828574399a8837699bbfe9537901bae7c4820c6a63329cc346b84b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_4.png"
+hash = "08dcd64b49d46905ce14919da0e94527cfcaa3f2b1a48c46ac8eba9515e71d97"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_5.png"
+hash = "d0770dec7b064de48b5b213773a2b645ee222152ab3ec8fd8d2c0a470db721b6"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_6.png"
+hash = "b3bfe5d1f15268afade5b2c4a54fac8d706c19f1d155abcb4ea6674143460ddc"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_7.png"
+hash = "d336fdb5c6cec84916a123fcdf874326af286bfdf377692a84ce65a0a45aa631"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_8.png"
+hash = "9bd9510ec2d68959ef059456c024e1c80200eeb5edbcb919b52cf2bd384de771"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_9.png"
+hash = "1b6965af3c86c7cabcd75d8f253a5f5a46ddb54739197899e6cb53cb85b390aa"
+
+[[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking.png"
 hash = "479142193f35b5f9322a2ab4fb7c335c6819d42ec2abbf7d56f90bad0c7c67cf"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_0.png"
+hash = "20bfd3d1213015941149c2293d68350876f445ea05b2b0100df69df18a9fa083"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_1.png"
+hash = "c898ad481fe5fc71bcea1d96a851307495ca84a25cde1dafc0532dc35c088fc6"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_2.png"
+hash = "37f723671cb974eaf5738a4ed27a4218f37f72975ca69807b649f37636451638"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_3.png"
+hash = "cfdb205fc0da2e494225c687733e0b7d313051b83d96b04c5af0a5ac950a6366"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_4.png"
+hash = "11fbd9eddc08c5dc5a8f1c9f7737cd46f165db92c02f1efe7315dbb553a7c060"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_5.png"
+hash = "27324852a6b904a770484f86658170c5d99d02d7ed077a7fb3e0cea6ba0d07cd"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_6.png"
+hash = "6bfced7313b90f45c152c60498164ff980e973fe29e70499bb5c824e15d1ada9"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_7.png"
+hash = "06590300d22a2e04bfb5c9d51a0e8bc0e026839a735b70f45641a51f2625841b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_8.png"
+hash = "0dadf15be4772c7d49f96cfa3b04e70b14dbcdc23908c8a70ff85a50f75eea69"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking_9.png"
+hash = "d9be3958bc9bdbb0a39928381dda5b76ea27245b800f02d224498b44b367d8c2"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+hash = "938eb9858ae2a253a9a5551b5cace92750b96572f66ce53d81b7a023b31cdf87"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+hash = "da482762ba375c9c2995168244a9810f5cd3f11c112c924280b3fe76a698072b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+hash = "94ac7c346d294f810a52d741878a61a1137077b4d47e9aca89f86342cec07b8f"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-logo/assets/minecraft/textures/gui/title/edition.png"
