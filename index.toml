@@ -313,6 +313,16 @@ file = "config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "8f13e616ae57054805497b82e184a19c0426e018dac22e2d587c7a6df6b92163"
+preserve = true
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "77d7c2001cb585f26e7d449e4bdad8202373f21e0f2a33776c281543a9589c86"
+preserve = true
+
+[[files]]
 file = "mods/AmbientSounds_FABRIC_v6.3.11_mc26.3.jar.pw.toml"
 hash = "af2ab71384252694f2bfe4274343b9b151e775c2c185ddeea734b8ef6b4a4893"
 metafile = true
