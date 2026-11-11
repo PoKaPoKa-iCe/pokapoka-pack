@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/afkcinematics.properties"
-hash = "f08a17863228cf52570234249faaea2d1e55ac786a23438caf60f3ecc3ceb5c7"
+hash = "3100fa44659ca0ddbee6878b8bc16343f983699017aa2ae5ccdd7558185ea94e"
 preserve = true
 
 [[files]]
@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "fe72520f9a797b21c22ba51837fe77e08bcae550e7832ea132dda4811cb59dc8"
+hash = "5b405f2a032849eae17685b8a38de8ca8a86e7633e612d8a8e289c78223725f0"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/switcher.jar"
-hash = "cf033afe20c14a40b1a5238d7d910f29e0d9064028dc32cd05da550f5be7a7b9"
+hash = "78c62699ce4fd2b294ebe7c657ffb83a740491eba88a0ef439791f157e8c2646"
 
 [[files]]
 file = "mods/trade-cycling-fabric-1.0.23+26.3.jar.pw.toml"
