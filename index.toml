@@ -21,6 +21,11 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/afkcinematics.properties"
+hash = "f08a17863228cf52570234249faaea2d1e55ac786a23438caf60f3ecc3ceb5c7"
+preserve = true
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
@@ -413,6 +418,11 @@ hash = "57a0ac431f2f0ba6689c1be492fa5836b1800921b591d482f3aef9100521cae4"
 metafile = true
 
 [[files]]
+file = "mods/afk-cinematics-1.11.26+mc26.3.jar.pw.toml"
+hash = "ccabd298b2077d00d6d35fa0131fdda690b65a0ae31bb5cf35aca843ab138d1b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-fabric-mc26.3-3.0.10.jar.pw.toml"
 hash = "fecae4ef5982067c6749bcd163572a5a5ff857e538abf0eddae8610c490a66f0"
 metafile = true
@@ -624,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/switcher.jar"
-hash = "2963ea20fb5ac06e22d58ad2517f1d4d46cd6819027f72ef2163f0028922061d"
+hash = "b81f13b75d3e186099f5d1d2a92b42c978164f2cfb52589a134a2e481ddafc9c"
 
 [[files]]
 file = "mods/trade-cycling-fabric-1.0.23+26.3.jar.pw.toml"

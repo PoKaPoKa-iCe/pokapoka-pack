@@ -1,0 +1,8 @@
+name = "afk-cinematics-1.11.26+mc26.3"
+filename = "afk-cinematics-1.11.26+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MjVuY1gY/versions/d8rzPZho/afk-cinematics-1.11.26%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "211ecc3a6d1ae4eca6de7882d75cbeb9f5221c9069a974fc04586019992f3ac95134b447902d372e3064e420dfcf76c14cfa7f69a0338b0459f08128eb5c8c55"
