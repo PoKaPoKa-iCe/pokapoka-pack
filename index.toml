@@ -318,6 +318,10 @@ file = "config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
+file = "expected.json"
+hash = "fe72520f9a797b21c22ba51837fe77e08bcae550e7832ea132dda4811cb59dc8"
+
+[[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
 hash = "8f13e616ae57054805497b82e184a19c0426e018dac22e2d587c7a6df6b92163"
 preserve = true
@@ -634,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/switcher.jar"
-hash = "b81f13b75d3e186099f5d1d2a92b42c978164f2cfb52589a134a2e481ddafc9c"
+hash = "cf033afe20c14a40b1a5238d7d910f29e0d9064028dc32cd05da550f5be7a7b9"
 
 [[files]]
 file = "mods/trade-cycling-fabric-1.0.23+26.3.jar.pw.toml"
@@ -669,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify-2.17.0+mc26.3-universal.jar.pw.toml"
 hash = "b5624609c4cc5fed85e7b3bfebe2582e690e141a8c88f196aa2b0e418164366d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/FA+Player-v1.1.zip.pw.toml"
+hash = "da16d0b346720feb4bcc9a3dd2503a94daf15315be2c6701cf3f2b269daf7550"
 metafile = true
 
 [[files]]

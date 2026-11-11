@@ -1,0 +1,462 @@
+{
+    "generated":  "2026-11-11T19:57:26+09:00",
+    "mods":  [
+                 {
+                     "id":  "afkcinematics",
+                     "version":  "1.11.26+mc26.3",
+                     "name":  "AFK Cinematics",
+                     "file":  "afk-cinematics-1.11.26+mc26.3.jar"
+                 },
+                 {
+                     "id":  "ambientsounds",
+                     "version":  "6.3.11",
+                     "name":  "AmbientSounds",
+                     "file":  "AmbientSounds_FABRIC_v6.3.11_mc26.3.jar"
+                 },
+                 {
+                     "id":  "appleskin",
+                     "version":  "3.0.10+mc26.3",
+                     "name":  "AppleSkin",
+                     "file":  "appleskin-fabric-mc26.3-3.0.10.jar"
+                 },
+                 {
+                     "id":  "badoptimizations",
+                     "version":  "2.4.1",
+                     "name":  "BadOptimizations",
+                     "file":  "BadOptimizations-2.4.1-26.3-fabric.jar"
+                 },
+                 {
+                     "id":  "balm",
+                     "version":  "26.3.0.3",
+                     "name":  "Balm",
+                     "file":  "balm-fabric-26.3-26.3.0.3.jar"
+                 },
+                 {
+                     "id":  "betterf3",
+                     "version":  "20.0.0",
+                     "name":  "BetterF3",
+                     "file":  "BetterF3-20.0.0-Fabric-26.3.jar"
+                 },
+                 {
+                     "id":  "bettermounthud",
+                     "version":  "1.3.1",
+                     "name":  "Better Mount HUD",
+                     "file":  "bettermounthud-1.3.1.jar"
+                 },
+                 {
+                     "id":  "chat_heads",
+                     "version":  "1.3.2",
+                     "name":  "Chat Heads",
+                     "file":  "chat_heads-1.3.2-fabric-26.3.jar"
+                 },
+                 {
+                     "id":  "cloth-config",
+                     "version":  "26.3.159",
+                     "name":  "Cloth Config v26.3",
+                     "file":  "cloth-config-fabric-26.3.159.jar"
+                 },
+                 {
+                     "id":  "controlling",
+                     "version":  "26.3.4",
+                     "name":  "Controlling",
+                     "file":  "Controlling-fabric-26.3-26.3.4.jar"
+                 },
+                 {
+                     "id":  "coolrain",
+                     "version":  "unspecified",
+                     "name":  "CoolRain",
+                     "file":  "coolrain-1.4.0-26.3.jar"
+                 },
+                 {
+                     "id":  "craftingtweaks",
+                     "version":  "26.3.0.1",
+                     "name":  "Crafting Tweaks",
+                     "file":  "craftingtweaks-fabric-26.3-26.3.0.1.jar"
+                 },
+                 {
+                     "id":  "creativecore",
+                     "version":  "2.14.24",
+                     "name":  "CreativeCore",
+                     "file":  "CreativeCore_FABRIC_v2.14.24_mc26.3.jar"
+                 },
+                 {
+                     "id":  "cullleaves",
+                     "version":  "4.1.2",
+                     "name":  "Cull Leaves",
+                     "file":  "cullleaves-fabric-4.1.2+26.3.jar"
+                 },
+                 {
+                     "id":  "debugify",
+                     "version":  "26.3.0.0",
+                     "name":  "Debugify",
+                     "file":  "debugify-26.3.0.0.jar"
+                 },
+                 {
+                     "id":  "waterdripsound",
+                     "version":  "0.6.3",
+                     "name":  "Drip Sounds",
+                     "file":  "Drip Sounds-0.6.3+26.3-Fabric.jar"
+                 },
+                 {
+                     "id":  "durabilitytooltip",
+                     "version":  "1.2.0+a",
+                     "name":  "Durability Tooltip",
+                     "file":  "durabilitytooltip-1.2.0a-fabric-mc26.3.jar"
+                 },
+                 {
+                     "id":  "dynamic_fps",
+                     "version":  "3.11.10",
+                     "name":  "Dynamic FPS",
+                     "file":  "dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar"
+                 },
+                 {
+                     "id":  "enchdesc",
+                     "version":  "26.3.0.2",
+                     "name":  "EnchantmentDescriptions",
+                     "file":  "EnchantmentDescriptions-fabric-MC26.3-26.3.0.2.jar"
+                 },
+                 {
+                     "id":  "entity_model_features",
+                     "version":  "3.3.12",
+                     "name":  "Entity Model Features",
+                     "file":  "entity_model_features-3.3.12-26.3-fabric.jar"
+                 },
+                 {
+                     "id":  "entity_texture_features",
+                     "version":  "7.2.6",
+                     "name":  "Entity Texture Features",
+                     "file":  "entity_texture_features-7.2.6-26.3-fabric.jar"
+                 },
+                 {
+                     "id":  "entityculling",
+                     "version":  "1.11.3",
+                     "name":  "EntityCulling",
+                     "file":  "entityculling-fabric-1.11.3-mc26.3.jar"
+                 },
+                 {
+                     "id":  "fabric-api",
+                     "version":  "0.165.0+26.3",
+                     "name":  "Fabric API",
+                     "file":  "fabric-api-0.165.0+26.3.jar"
+                 },
+                 {
+                     "id":  "fabric-language-kotlin",
+                     "version":  "1.14.2+kotlin.2.4.21",
+                     "name":  "Fabric Language Kotlin",
+                     "file":  "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar"
+                 },
+                 {
+                     "id":  "fancymenu",
+                     "version":  "3.9.14",
+                     "name":  "FancyMenu",
+                     "file":  "fancymenu_fabric_3.9.14_MC_26.3.jar"
+                 },
+                 {
+                     "id":  "fastipping",
+                     "version":  "1.0.12",
+                     "name":  "Fast IP Ping",
+                     "file":  "fast-ip-ping-v1.0.12-mc26.3.jar"
+                 },
+                 {
+                     "id":  "fastquit",
+                     "version":  "3.1.5+mc26.2",
+                     "name":  "FastQuit",
+                     "file":  "fastquit-3.1.5+mc26.2.jar"
+                 },
+                 {
+                     "id":  "ferritecore",
+                     "version":  "9.0.0",
+                     "name":  "FerriteCore",
+                     "file":  "ferritecore-9.0.0-fabric.jar"
+                 },
+                 {
+                     "id":  "forgeconfigapiport",
+                     "version":  "26.3.1",
+                     "name":  "Forge Config API Port",
+                     "file":  "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar"
+                 },
+                 {
+                     "id":  "fzzy_config",
+                     "version":  "0.7.7+fix3+26.3",
+                     "name":  "Fzzy Config",
+                     "file":  "fzzy_config-0.7.7+fix3+26.3.jar"
+                 },
+                 {
+                     "id":  "held-item-info",
+                     "version":  "1.9.3",
+                     "name":  "Held Item Info",
+                     "file":  "held-item-info-1.9.3.jar"
+                 },
+                 {
+                     "id":  "immediatelyfast",
+                     "version":  "1.17.1+26.3",
+                     "name":  "ImmediatelyFast",
+                     "file":  "ImmediatelyFast-Fabric-1.17.1+26.3.jar"
+                 },
+                 {
+                     "id":  "inventoryprofilesnext",
+                     "version":  "2.3.8",
+                     "name":  "Inventory Profiles Next",
+                     "file":  "InventoryProfilesNext-fabric-26.3-2.3.8.jar"
+                 },
+                 {
+                     "id":  "iris",
+                     "version":  "1.11.7+mc26.3",
+                     "name":  "Iris",
+                     "file":  "iris-fabric-1.11.7+mc26.3.jar"
+                 },
+                 {
+                     "id":  "journeymap",
+                     "version":  "26.3-6.0.10",
+                     "name":  "Journeymap",
+                     "file":  "journeymap-fabric-26.3-6.0.10.jar"
+                 },
+                 {
+                     "id":  "konkrete",
+                     "version":  "1.11.1",
+                     "name":  "Konkrete",
+                     "file":  "konkrete_fabric_1.11.1_MC_26.3.jar"
+                 },
+                 {
+                     "id":  "krypton",
+                     "version":  "0.3.2",
+                     "name":  "Krypton",
+                     "file":  "krypton-0.3.2.jar"
+                 },
+                 {
+                     "id":  "languagereload",
+                     "version":  "1.7.8+26.3",
+                     "name":  "Language Reload",
+                     "file":  "language-reload-1.7.8+26.3.jar"
+                 },
+                 {
+                     "id":  "libipn",
+                     "version":  "6.9.0",
+                     "name":  "libIPN",
+                     "file":  "libIPN-fabric-26.3-6.9.0.jar"
+                 },
+                 {
+                     "id":  "lootr",
+                     "version":  "1.25.42.124",
+                     "name":  "Lootr",
+                     "file":  "lootr-fabric-26.3-1.25.42.124.jar"
+                 },
+                 {
+                     "id":  "melody",
+                     "version":  "1.0.17",
+                     "name":  "Melody",
+                     "file":  "melody_fabric_1.0.17_MC_26.3.jar"
+                 },
+                 {
+                     "id":  "modmenu",
+                     "version":  "21.0.0",
+                     "name":  "Mod Menu",
+                     "file":  "modmenu-21.0.0.jar"
+                 },
+                 {
+                     "id":  "moreculling",
+                     "version":  "1.9.0",
+                     "name":  "More Culling",
+                     "file":  "moreculling-fabric-26.3-1.9.0.jar"
+                 },
+                 {
+                     "id":  "mousetweaks",
+                     "version":  "2.31",
+                     "name":  "Mouse Tweaks",
+                     "file":  "MouseTweaks-fabric-mc26.3-2.31.jar"
+                 },
+                 {
+                     "id":  "nochatreports",
+                     "version":  "26.3-v2.21.0",
+                     "name":  "No Chat Reports",
+                     "file":  "NoChatReports-FABRIC-26.3-v2.21.0.jar"
+                 },
+                 {
+                     "id":  "particle_core",
+                     "version":  "0.3.3+fix1+26.2",
+                     "name":  "Particle Core",
+                     "file":  "particle_core-0.3.3+fix1+26.2.jar"
+                 },
+                 {
+                     "id":  "placeholder-api",
+                     "version":  "3.2.0+26.3",
+                     "name":  "Placeholder API",
+                     "file":  "placeholder-api-3.2.0+26.3.jar"
+                 },
+                 {
+                     "id":  "presencefootsteps",
+                     "version":  "1.14.0+26.3",
+                     "name":  "Presence Footsteps",
+                     "file":  "PresenceFootsteps-1.14.0+26.3.jar"
+                 },
+                 {
+                     "id":  "prickle",
+                     "version":  "26.3.0.2",
+                     "name":  "PrickleMC",
+                     "file":  "PrickleMC-fabric-MC26.3-26.3.0.2.jar"
+                 },
+                 {
+                     "id":  "puzzleslib",
+                     "version":  "26.3.16",
+                     "name":  "Puzzles Lib",
+                     "file":  "puzzleslib-v26.3.16-mc26.3.x+fabric.jar"
+                 },
+                 {
+                     "id":  "reeses-sodium-options",
+                     "version":  "2.2.5+mc26.3",
+                     "name":  "Reese\u0027s Sodium Options",
+                     "file":  "reeses-sodium-options-fabric-2.2.5+mc26.3.jar"
+                 },
+                 {
+                     "id":  "searchables",
+                     "version":  "1.0.3",
+                     "name":  "Searchables",
+                     "file":  "Searchables-fabric-26.3-1.0.3.jar"
+                 },
+                 {
+                     "id":  "shulkerboxtooltip",
+                     "version":  "5.4.2+26.3",
+                     "name":  "Shulker Box Tooltip",
+                     "file":  "shulkerboxtooltip-fabric-5.4.2+26.3.jar"
+                 },
+                 {
+                     "id":  "sodium-extra",
+                     "version":  "0.9.4+mc26.3",
+                     "name":  "Sodium Extra",
+                     "file":  "sodium-extra-fabric-0.9.4+mc26.3.jar"
+                 },
+                 {
+                     "id":  "sodium",
+                     "version":  "0.9.2+mc26.3",
+                     "name":  "Sodium",
+                     "file":  "sodium-fabric-0.9.2+mc26.3.jar"
+                 },
+                 {
+                     "id":  "sound_physics_remastered",
+                     "version":  "1.5.2+26.3",
+                     "name":  "Sound Physics Remastered",
+                     "file":  "sound-physics-remastered-fabric-1.5.2+26.3.jar"
+                 },
+                 {
+                     "id":  "status-effect-bars",
+                     "version":  "1.0.12",
+                     "name":  "Status Effect Bars",
+                     "file":  "status-effect-bars-1.0.12.jar"
+                 },
+                 {
+                     "id":  "streamsreflowing",
+                     "version":  "2.15.2",
+                     "name":  "StreamsReflowing",
+                     "file":  "StreamsReflowing-26.3-fabric-2.15.2.jar"
+                 },
+                 {
+                     "id":  "subtle_effects",
+                     "version":  "1.15.1-hotfix.1",
+                     "name":  "Subtle Effects",
+                     "file":  "SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar"
+                 },
+                 {
+                     "id":  "supermartijn642configlib",
+                     "version":  "1.1.8+a",
+                     "name":  "SuperMartijn642\u0027s Config Library",
+                     "file":  "supermartijn642configlib-1.1.8a-fabric-mc26.3.jar"
+                 },
+                 {
+                     "id":  "trade_cycling",
+                     "version":  "1.0.23+26.3",
+                     "name":  "Trade Cycling",
+                     "file":  "trade-cycling-fabric-1.0.23+26.3.jar"
+                 },
+                 {
+                     "id":  "visualworkbench",
+                     "version":  "26.3.0",
+                     "name":  "Visual Workbench",
+                     "file":  "visualworkbench-v26.3.0-mc26.3.x+fabric.jar"
+                 },
+                 {
+                     "id":  "voicechat",
+                     "version":  "2.6.26+26.3",
+                     "name":  "Simple Voice Chat",
+                     "file":  "voicechat-fabric-2.6.26+26.3.jar"
+                 },
+                 {
+                     "id":  "voxy",
+                     "version":  "0.2.20-beta",
+                     "name":  "Voxy",
+                     "file":  "voxy-0.2.20-beta.jar"
+                 },
+                 {
+                     "id":  "voxy-seam-fix",
+                     "version":  "0.2.1",
+                     "name":  "Voxy Seam Fix",
+                     "file":  "voxy-seam-fix-0.2.1.jar"
+                 },
+                 {
+                     "id":  "voxyserver",
+                     "version":  "1.2.5",
+                     "name":  "VoxyServer",
+                     "file":  "VoxyServer-1.2.5-36.3.jar"
+                 },
+                 {
+                     "id":  "yet_another_config_lib_v3",
+                     "version":  "3.9.7+26.3-fabric",
+                     "name":  "YetAnotherConfigLib",
+                     "file":  "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar"
+                 },
+                 {
+                     "id":  "zoomify",
+                     "version":  "2.17.0+mc26.3",
+                     "name":  "Zoomify",
+                     "file":  "zoomify-2.17.0+mc26.3-universal.jar"
+                 },
+                 {
+                     "id":  "switcher",
+                     "version":  "1.0.0",
+                     "name":  "おまかせ設定",
+                     "file":  "switcher.jar",
+                     "build":  "20261111-195702"
+                 }
+             ],
+    "resourcePacks":  [
+                          {
+                              "file":  "FA+Player-v1.1.zip",
+                              "name":  "FA+Player-v1.1"
+                          },
+                          {
+                              "file":  "FreshAnimations_v1.11.1_26.1+.zip",
+                              "name":  "FreshAnimations_v1.11.1_26.1+"
+                          },
+                          {
+                              "file":  "Optimum Realism R4.2.0.zip",
+                              "name":  "Optimum Realism R4.2.0"
+                          },
+                          {
+                              "file":  "Pixlli V57 26.3-1.13 128x.zip",
+                              "name":  "Pixlli V57 26.3-1.13 128x"
+                          },
+                          {
+                              "file":  "PoKaPoKa-logo",
+                              "name":  "PoKaPoKa-logo"
+                          },
+                          {
+                              "file":  "PoKaPoKa-日本語化",
+                              "name":  "PoKaPoKa-日本語化"
+                          },
+                          {
+                              "file":  "Prime\u0027s HD Textures 32x.zip",
+                              "name":  "Prime\u0027s HD Textures 32x"
+                          },
+                          {
+                              "file":  "rotrBLOCKS V88 3D Foliage 128x 26.3-1.13.zip",
+                              "name":  "rotrBLOCKS V88 3D Foliage 128x 26.3-1.13"
+                          },
+                          {
+                              "file":  "Simplista 64x R36.zip",
+                              "name":  "Simplista 64x R36"
+                          },
+                          {
+                              "file":  "SPBR-22_5.zip",
+                              "name":  "SPBR-22_5"
+                          }
+                      ]
+}
