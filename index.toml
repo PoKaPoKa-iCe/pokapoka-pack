@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "5b405f2a032849eae17685b8a38de8ca8a86e7633e612d8a8e289c78223725f0"
+hash = "60faa2ca7953e1a78c57c3bb595317518d3354415400cd2317969f0672968721"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -414,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar.pw.toml"
 hash = "8e2bafe38e4c0b6b16ecefd20266c03cdbe7ab80bc1dca9ce3a8c2922e9048a0"
+metafile = true
+
+[[files]]
+file = "mods/Tasty Vanilla-2.2-26.3.jar.pw.toml"
+hash = "4c8c341d8bbd08f45003c076163f6ac2e3c7c23f48c8707a8a78967452126ac0"
 metafile = true
 
 [[files]]
@@ -638,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/switcher.jar"
-hash = "78c62699ce4fd2b294ebe7c657ffb83a740491eba88a0ef439791f157e8c2646"
+hash = "bcec16c2662ed03a9a90195a0dea99c11366d2221e167f3591e19835642dd490"
 
 [[files]]
 file = "mods/trade-cycling-fabric-1.0.23+26.3.jar.pw.toml"
@@ -1234,6 +1239,10 @@ hash = "ca8e372325e7da1d8ed54274bb7247ecd83c2b9e931c527be8074f9b79dfbaed"
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/subtle_effects/lang/ja_jp.json"
 hash = "8605edfcd319787acd2b290701406a905ffcf48e44fda240e6d9bb890977ba7b"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/tastyvanilla/lang/ja_jp.json"
+hash = "c5149192be11194dbe7a3d9fbad6e58bdb96d5c6fe422797060b9af9df26d79f"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/trade_cycling/lang/ja_jp.json"

@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-11T20:35:48+09:00",
+    "generated":  "2026-11-12T20:22:50+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -362,6 +362,12 @@
                      "file":  "supermartijn642configlib-1.1.8a-fabric-mc26.3.jar"
                  },
                  {
+                     "id":  "tastyvanilla",
+                     "version":  "2.2",
+                     "name":  "TastyVanilla",
+                     "file":  "Tasty Vanilla-2.2-26.3.jar"
+                 },
+                 {
                      "id":  "trade_cycling",
                      "version":  "1.0.23+26.3",
                      "name":  "Trade Cycling",
@@ -414,7 +420,7 @@
                      "version":  "1.0.0",
                      "name":  "おまかせ設定",
                      "file":  "switcher.jar",
-                     "build":  "20261111-203448"
+                     "build":  "20261111-204801"
                  }
              ],
     "resourcePacks":  [

@@ -1,0 +1,8 @@
+name = "Tasty Vanilla-2.2-26.3"
+filename = "Tasty Vanilla-2.2-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r3IUi4Ac/versions/kgBf93vg/Tasty%20Vanilla-2.2-26.3.jar"
+hash-format = "sha512"
+hash = "3dcb7ee9bc97ace3198f2c3ef3f595a658082e7055723aa741ab028f512cce615519223c54c6c38e3d61d11a5eb7a15ac728dcebeaf1af1a19594b7e9c78b37a"
