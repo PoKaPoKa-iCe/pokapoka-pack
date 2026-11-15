@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/pokapoka-glamour-0.1.0.jar"
-hash = "4d1af9ce71bb9a61f8bb6d8b22ce40458c2152f8e414db9a1f0202af5b55a658"
+hash = "68328e5ab5b92d4f29c04df0d1cf035caa75e6dfca189bdac54e1e55e7f725c3"
 
 [[files]]
 file = "mods/pokapoka-points-client-0.2.1.jar"
