@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-15T23:29:49+09:00",
+    "generated":  "2026-11-16T00:17:14+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -291,9 +291,9 @@
                  },
                  {
                      "id":  "pokapoka_points_client",
-                     "version":  "0.2.0",
+                     "version":  "0.2.1",
                      "name":  "PoKaPoKa Points Client",
-                     "file":  "pokapoka-points-client-0.2.0.jar"
+                     "file":  "pokapoka-points-client-0.2.1.jar"
                  },
                  {
                      "id":  "presencefootsteps",
