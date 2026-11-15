@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "3391557269f82e3ac00ba294da12a44122b07cd95ac4ab54da52266de41ab6d7"
+hash = "1d6cdc4fb065618d700fd6e30b133418561b3f32d3b11ec5ba0ab0257bb55532"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -603,11 +603,15 @@ metafile = true
 
 [[files]]
 file = "mods/pokapoka-glamour-0.1.0.jar"
-hash = "184fdf31f4035c482b956e6f41e796996115d9e25a7c5931d90e8e73e4fe79d7"
+hash = "285b904fc34f7a65ecb16e177ff87dc60731b357ec1d0c1bbbe10598de15ab66"
 
 [[files]]
 file = "mods/pokapoka-points-client-0.2.1.jar"
 hash = "e4b939c3c7cf61b59749dbe5ca7e121ab2816b6194fd5cb20a1766870012ea9b"
+
+[[files]]
+file = "mods/pokapoka-rewards-client-0.1.0.jar"
+hash = "d484b6882ce1d498ada5fe25f36922b18faf1addf62bd9cdfe38dbca685d69c0"
 
 [[files]]
 file = "mods/puzzleslib-v26.3.16-mc26.3.x+fabric.jar.pw.toml"

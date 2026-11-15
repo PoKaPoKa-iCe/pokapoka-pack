@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-16T00:17:14+09:00",
+    "generated":  "2026-11-16T01:58:03+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -294,6 +294,12 @@
                      "version":  "0.2.1",
                      "name":  "PoKaPoKa Points Client",
                      "file":  "pokapoka-points-client-0.2.1.jar"
+                 },
+                 {
+                     "id":  "pokapoka_rewards_client",
+                     "version":  "0.1.0",
+                     "name":  "PoKaPoKa ミッション（画面）",
+                     "file":  "pokapoka-rewards-client-0.1.0.jar"
                  },
                  {
                      "id":  "presencefootsteps",
