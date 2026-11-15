@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-12T20:22:50+09:00",
+    "generated":  "2026-11-15T23:29:49+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -282,6 +282,18 @@
                      "version":  "3.2.0+26.3",
                      "name":  "Placeholder API",
                      "file":  "placeholder-api-3.2.0+26.3.jar"
+                 },
+                 {
+                     "id":  "pokapoka_glamour",
+                     "version":  "0.1.0+26.3",
+                     "name":  "PoKaPoKa Glamour",
+                     "file":  "pokapoka-glamour-0.1.0.jar"
+                 },
+                 {
+                     "id":  "pokapoka_points_client",
+                     "version":  "0.2.0",
+                     "name":  "PoKaPoKa Points Client",
+                     "file":  "pokapoka-points-client-0.2.0.jar"
                  },
                  {
                      "id":  "presencefootsteps",
