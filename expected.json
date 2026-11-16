@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-16T01:58:03+09:00",
+    "generated":  "2026-11-16T20:30:58+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -92,6 +92,18 @@
                      "file":  "debugify-26.3.0.0.jar"
                  },
                  {
+                     "id":  "mr_dinobriks_cocktails",
+                     "version":  "1.1",
+                     "name":  "DinoBrik\u0027s Cocktails",
+                     "file":  "dinobriks-cocktails-1.1.jar"
+                 },
+                 {
+                     "id":  "mr_dinobriks_rum",
+                     "version":  "2.2.1",
+                     "name":  "DinoBriks Rum",
+                     "file":  "dinobriks-rum-2.2.1.jar"
+                 },
+                 {
                      "id":  "waterdripsound",
                      "version":  "0.6.3",
                      "name":  "Drip Sounds",
@@ -135,9 +147,9 @@
                  },
                  {
                      "id":  "fabric-api",
-                     "version":  "0.165.0+26.3",
+                     "version":  "0.166.2+26.3",
                      "name":  "Fabric API",
-                     "file":  "fabric-api-0.165.0+26.3.jar"
+                     "file":  "fabric-api-0.166.2+26.3.jar"
                  },
                  {
                      "id":  "fabric-language-kotlin",
@@ -276,6 +288,12 @@
                      "version":  "0.3.3+fix1+26.2",
                      "name":  "Particle Core",
                      "file":  "particle_core-0.3.3+fix1+26.2.jar"
+                 },
+                 {
+                     "id":  "phonon",
+                     "version":  "0.4.0+mc26.3",
+                     "name":  "Phonon",
+                     "file":  "phonon-fabric-26.3-0.4.0+mc26.3.jar"
                  },
                  {
                      "id":  "placeholder-api",
@@ -442,6 +460,10 @@
                  }
              ],
     "resourcePacks":  [
+                          {
+                              "file":  "dinobriks-rum-RP-2.2.1.zip",
+                              "name":  "dinobriks-rum-RP-2.2.1"
+                          },
                           {
                               "file":  "FA+Player-v1.1.zip",
                               "name":  "FA+Player-v1.1"

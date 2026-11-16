@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "1d6cdc4fb065618d700fd6e30b133418561b3f32d3b11ec5ba0ab0257bb55532"
+hash = "1ed701c1ec59a5cfed84ab9b21b4b67a668415a0494857ff193138ec0d3e0a7a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -477,6 +477,16 @@ hash = "9ef61c249d483b16f25e891634e7282bf1513f3c9270f596734fd1fe72fc012f"
 metafile = true
 
 [[files]]
+file = "mods/dinobriks-cocktails-1.1.jar.pw.toml"
+hash = "8090594782e217492ed3f8d51440b7114e19b1490edd73b9494d94477b903507"
+metafile = true
+
+[[files]]
+file = "mods/dinobriks-rum-2.2.1.jar.pw.toml"
+hash = "22495aebcda4e8f3d7bf4276dcd50bff8a47d6e25ca760406c0c4b39d4f03aeb"
+metafile = true
+
+[[files]]
 file = "mods/durabilitytooltip-1.2.0a-fabric-mc26.3.jar.pw.toml"
 hash = "616cef4509c7ed76eb0c131fb0700a55252d0d6638705ddd0958088c1a7d9aca"
 metafile = true
@@ -502,8 +512,8 @@ hash = "fc0311400199d9094d7a936fbd5a9fbfa8d7e3b00767b764797c522c45c6b184"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api-0.165.0+26.3.jar.pw.toml"
-hash = "a688dfef4061623905d2e9b823cced1c9a71b969a72d529acf4aaaf6f5818c63"
+file = "mods/fabric-api-0.166.2+26.3.jar.pw.toml"
+hash = "84cdab354bc3e8ed7913c561ced309cd488f8923d8124d579330f5b6bca242d7"
 metafile = true
 
 [[files]]
@@ -597,13 +607,18 @@ hash = "69a62eb755ae0f3867854ad9402c8e107408bc82a2d6325b359f2aa166e1c096"
 metafile = true
 
 [[files]]
+file = "mods/phonon-fabric-26.3-0.4.0+mc26.3.jar.pw.toml"
+hash = "23c8d41ed7160bacb0a7888116836af2e3a577730cf8e6012ad534f576e0eccc"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api-3.2.0+26.3.jar.pw.toml"
 hash = "0ea1bdd8f288907fa275ffee3edffd6ca68b7df23cdff870be3cb4575f536a36"
 metafile = true
 
 [[files]]
 file = "mods/pokapoka-glamour-0.1.0.jar"
-hash = "68328e5ab5b92d4f29c04df0d1cf035caa75e6dfca189bdac54e1e55e7f725c3"
+hash = "80b2f47e44d65b6c6d8d7b2b7c7823a6a428a830a2ab584d9cbe77cca23364b5"
 
 [[files]]
 file = "mods/pokapoka-points-client-0.2.1.jar"
@@ -1293,6 +1308,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/Simplista 64x R36.zip.pw.toml"
 hash = "63e02eaa417bf10cd89f915a014ec46bd352d24464f9426a2e0f87b36d0c6682"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dinobriks-rum-RP-2.2.1.zip.pw.toml"
+hash = "d8fcb0ac76cdc17cc6092a71c9b97e759271949626a30d335e367b9f965951b2"
 metafile = true
 
 [[files]]

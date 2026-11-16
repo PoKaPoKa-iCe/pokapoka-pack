@@ -1,0 +1,8 @@
+name = "dinobriks-cocktails-1.1"
+filename = "dinobriks-cocktails-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLhYtcPE/versions/9j2Tvi7E/dinobriks-cocktails-1.1.jar"
+hash-format = "sha512"
+hash = "7290e0ac1d5af24ed464c39552575238858b0d8cbaac8108e1a42a2d4addd2bbfa0ba05e3ada502ca7a817d292118acbc30d3e7aa4e788fc086a25d61592e425"

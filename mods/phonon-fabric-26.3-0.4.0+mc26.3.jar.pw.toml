@@ -1,0 +1,8 @@
+name = "phonon-fabric-26.3-0.4.0+mc26.3"
+filename = "phonon-fabric-26.3-0.4.0+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eQMs1sDd/versions/C9Bsc7Yy/phonon-fabric-26.3-0.4.0%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "c22343700046d575647994d65bc7c7759537d1a58251ae919169f767b2a2a28c8daef3fe792faaf9eb01f67205c2d53c84af1a084444092d5b7b2e1c4da89e17"

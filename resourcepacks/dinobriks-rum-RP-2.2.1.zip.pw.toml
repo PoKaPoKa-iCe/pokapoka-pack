@@ -1,0 +1,8 @@
+name = "dinobriks-rum-RP-2.2.1"
+filename = "dinobriks-rum-RP-2.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tQJ7kSC2/versions/nudl4U7V/DinoBrik%27s%20Rum%20-%20RP%202.2.1%20%2826.3%29.zip"
+hash-format = "sha512"
+hash = "5535cfe8f140b853356c82f146c79e482429521269334c38a7f0621f97538583602f7dcd01e9eea1db826454d60207d6b8fda43274c68478e06e309d27ac6742"
