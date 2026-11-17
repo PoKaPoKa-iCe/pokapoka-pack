@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "ae1bf64cc596d0d030193d484e73c897a44f65dbde1bfe85bc8462ef194eb350"
+hash = "b353ae9dca978896be5f0b958cbd1a012f02dc8fe4c56932bfe07644b26807cf"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -440,6 +440,10 @@ metafile = true
 file = "mods/balm-fabric-26.3-26.3.0.3.jar.pw.toml"
 hash = "14573c7774aedc66e4a54cf656b9bf551ddd98ac67534112609e8a88f712f1f1"
 metafile = true
+
+[[files]]
+file = "mods/beatlamp-1.2.1+26.3.jar"
+hash = "2cb89738eb94da6c9613a54b3953b9986d386394bf14c95695c7e60ba234420e"
 
 [[files]]
 file = "mods/bettermounthud-1.3.1.jar.pw.toml"

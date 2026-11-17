@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-16T22:53:35+09:00",
+    "generated":  "2026-11-18T07:38:06+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -30,6 +30,12 @@
                      "version":  "26.3.0.3",
                      "name":  "Balm",
                      "file":  "balm-fabric-26.3-26.3.0.3.jar"
+                 },
+                 {
+                     "id":  "beatlamp",
+                     "version":  "1.2.1+26.3",
+                     "name":  "Beat Lamp",
+                     "file":  "beatlamp-1.2.1+26.3.jar"
                  },
                  {
                      "id":  "betterf3",
