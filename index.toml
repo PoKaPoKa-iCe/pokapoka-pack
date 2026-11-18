@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "b353ae9dca978896be5f0b958cbd1a012f02dc8fe4c56932bfe07644b26807cf"
+hash = "ae6ec5a33a5fb88d9152a0738d5d626a1765e22372077b7fbeac52c9ab2f5f9b"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -621,8 +621,12 @@ hash = "0ea1bdd8f288907fa275ffee3edffd6ca68b7df23cdff870be3cb4575f536a36"
 metafile = true
 
 [[files]]
-file = "mods/pokapoka-glamour-0.1.0.jar"
-hash = "0bc589c45784cfb4918c66e82c1d02f5df3289a54522db024edcab02988678b6"
+file = "mods/pokapoka-bank-client-0.1.0.jar"
+hash = "5382c731384bd0aca4f2da3b7bddb332cf82ad40c3ef5d1f94204313e5010328"
+
+[[files]]
+file = "mods/pokapoka-glamour-0.1.0-allow.jar"
+hash = "1adcbb473f54a270b2bb0eef97ebd0074fb86a43a186f73d0ac38711ad38cfeb"
 
 [[files]]
 file = "mods/pokapoka-jukebox-0.1.0.jar"
@@ -644,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options-fabric-2.2.5+mc26.3.jar.pw.toml"
 hash = "4810de5261ef6234fd38b9c90d880cf193b42491a33cc29f68e0dc6a59f2edd3"
+metafile = true
+
+[[files]]
+file = "mods/satoyama-26.2.263-rooted.jar.pw.toml"
+hash = "ecbfbc3ab06e78ea02aa2d5ed5dc184ddb9d0500740df95a6e38deaef71dba68"
 metafile = true
 
 [[files]]

@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-18T07:38:06+09:00",
+    "generated":  "2026-11-18T16:55:43+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -308,10 +308,16 @@
                      "file":  "placeholder-api-3.2.0+26.3.jar"
                  },
                  {
+                     "id":  "pokapoka_bank_client",
+                     "version":  "0.1.0",
+                     "name":  "PoKaPoKa 貸付（画面）",
+                     "file":  "pokapoka-bank-client-0.1.0.jar"
+                 },
+                 {
                      "id":  "pokapoka_glamour",
                      "version":  "0.1.0+26.3",
                      "name":  "PoKaPoKa Glamour",
-                     "file":  "pokapoka-glamour-0.1.0.jar"
+                     "file":  "pokapoka-glamour-0.1.0-allow.jar"
                  },
                  {
                      "id":  "pokapoka_jukebox",
@@ -354,6 +360,12 @@
                      "version":  "2.2.5+mc26.3",
                      "name":  "Reese\u0027s Sodium Options",
                      "file":  "reeses-sodium-options-fabric-2.2.5+mc26.3.jar"
+                 },
+                 {
+                     "id":  "satoyama_distribution",
+                     "version":  "26.2.263",
+                     "name":  "satoyama distribution",
+                     "file":  "satoyama-26.2.263-rooted.jar"
                  },
                  {
                      "id":  "searchables",

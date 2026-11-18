@@ -1,0 +1,8 @@
+name = "satoyama-26.2.263-rooted"
+filename = "satoyama-26.2.263-rooted.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EiYSsVl8/versions/oRdPDD64/satoyama-26.2.263-rooted.jar"
+hash-format = "sha512"
+hash = "cd1d03747989ed801df65f7ad7b73800d6a9d5b089d3c12c901054f3bc3d2113f85795508c8ed455aaf55a7f95020a5dd882fbefcdf35d88295a3b218e7f7f78"
