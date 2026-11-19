@@ -1,0 +1,22 @@
+{
+ "category.afkcinematics": "AFK Cinematics",
+ "key.categories.afkcinematics.controls": "AFK Cinematics",
+ "key.afkcinematics.open_settings": "AFK Cinematicsの設定を開く",
+ "key.afkcinematics.toggle_enabled": "AFK Cinematicsのオン・オフを切り替え",
+ "screen.afkcinematics.title": "AFK Cinematics",
+ "screen.afkcinematics.author": "Spunky Insaan",
+ "screen.afkcinematics.enabled": "AFK Cinematics: %s",
+ "screen.afkcinematics.music": "シネマティックBGM: %s",
+ "screen.afkcinematics.music_volume": "BGMの音量: %s%%",
+ "screen.afkcinematics.balance": "環境音 %s%% | キャラクター %s%%",
+ "screen.afkcinematics.cinematic_bars": "シネマティックの黒帯: %s",
+ "screen.afkcinematics.motion": "カメラの動き: %s",
+ "screen.afkcinematics.afk_time": "放置時間: %s秒",
+ "screen.afkcinematics.start_now": "今すぐ開始",
+ "screen.afkcinematics.about": "情報",
+ "screen.afkcinematics.report_issue": "問題を報告",
+ "screen.afkcinematics.open_key": "設定を開くキー: %s",
+ "screen.afkcinematics.toggle_key": "オン・オフ切り替えキー: %s",
+ "screen.afkcinematics.on": "オン",
+ "screen.afkcinematics.off": "オフ"
+}

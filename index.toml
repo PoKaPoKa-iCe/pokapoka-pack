@@ -1145,6 +1145,10 @@ file = "resourcepacks/PoKaPoKa-logo/pack.png"
 hash = "3a3ff1e68c8019a615e0f0b34c57df6811e96d9cd22a3698c724c0519bbe18d5"
 
 [[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/afkcinematics/lang/ja_jp.json"
+hash = "540a8e6d932a404832d75db9f9c3f4d92c88545f3a81d7dbf34319d910296afe"
+
+[[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/balm/lang/ja_jp.json"
 hash = "8e50764ab60f520ecfa917cf397ed118f325bcaa36ced3e93e83a2e13aeafd21"
 
@@ -1175,6 +1179,10 @@ hash = "d7f8763977c72416903112ef91912d82de50b62e271fb67ba7713b99ef5a32cf"
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/cullleaves/lang/ja_jp.json"
 hash = "f7e87ef88f54e9829779d1a97db23a9d52d66ccc4f2384155c384710d2608d16"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/cwb/lang/ja_jp.json"
+hash = "bb03e06e132446732854e4410fdd0ea5a5b030d87cfe0a27337f7a7ef8f9d643"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/debugify/lang/ja_jp.json"
@@ -1211,6 +1219,10 @@ hash = "d0a42184e31237709902058a65e296691f2998366df7cb184bbacc1fb23434d1"
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/forgeconfigapiport/lang/ja_jp.json"
 hash = "181cd2999af1a021dafcbf5077a0c201ff7885ace5bae2614988e9140c209ebf"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/framework/lang/ja_jp.json"
+hash = "7161d47b52bec9b3a92c09c527ff681bd6bd1e0b9933581799c0dcada81f8c1d"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/fzzy_config/lang/ja_jp.json"
@@ -1257,6 +1269,10 @@ file = "resourcepacks/PoKaPoKa-日本語化/assets/particle_core/lang/ja_jp.json
 hash = "254e284d5302c6f4a68b83b9a58afde256c1aa5dc0b7c4d3bc4aa9c5855a9ec4"
 
 [[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/phonon/lang/ja_jp.json"
+hash = "054c9847fb0125c8c113e8321e6cc06dd24b3b9d3075ab0817073947551f4528"
+
+[[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/placeholderapi/lang/ja_jp.json"
 hash = "4fbe7745cf5570f58ca4c29b3fc5429caeacb184ceea3b741edd34a853f54e1f"
 
@@ -1267,6 +1283,10 @@ hash = "68906840ba225fdfe4d01a660ed227a7c9ea5279378e0432af72c6d67a257ce5"
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/reeses-sodium-options/lang/ja_jp.json"
 hash = "442976307a2e38f0aa73c2b9062bc547001250acb2d9ede367b5e8b3f3258004"
+
+[[files]]
+file = "resourcepacks/PoKaPoKa-日本語化/assets/refurbished_furniture/lang/ja_jp.json"
+hash = "e281b594f1574a5c9ebfd348bb8ecf21a7d19212fbc8213bd579abf7517c03f0"
 
 [[files]]
 file = "resourcepacks/PoKaPoKa-日本語化/assets/searchables/lang/ja_jp.json"
@@ -1348,6 +1368,10 @@ metafile = true
 file = "resourcepacks/rotrBLOCKS V88 3D Foliage 128x 26.3-1.13.zip.pw.toml"
 hash = "2680501566ffe4aac9343a3e6ecce9542b1bfe022619f99aa18d907ccfd3899c"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "800281f2bd4707a11ce25ee587b3b7d1d1ce70e9153664eae5887f4329390494"
 
 [[files]]
 file = "shaderpacks/I Like Vanilla v1.5.0b.zip.txt"

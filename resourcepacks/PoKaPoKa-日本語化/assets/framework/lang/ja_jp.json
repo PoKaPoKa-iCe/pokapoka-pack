@@ -1,0 +1,8 @@
+{
+ "framework.gui.sync_config_failed": "(Framework) サーバーからの同期設定を処理できませんでした。詳しくはログを確認してください。",
+ "framework.gui.sync_entity_data_failed": "(Framework) 不明な同期エンティティデータのキーを受け取りました。詳しくはログを確認してください。",
+ "framework.validator.resource_location.hint": "有効なリソースロケーションならどれでも可。\n形式: \"<名前空間>:<パス>\"",
+ "framework.validator.resource_location.hint_with_namespace": "有効なリソースロケーション。ただし名前空間は%1$sにしてください。\n形式: \"%1$s:<パス>\"",
+ "framework.validator.identifier.hint": "有効な識別子ならどれでも可。\n形式: \"<名前空間>:<パス>\"",
+ "framework.validator.identifier.hint_with_namespace": "有効な識別子。ただし名前空間は%1$sにしてください。\n形式: \"%1$s:<パス>\""
+}
