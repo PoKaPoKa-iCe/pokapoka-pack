@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "47b8eb9b9553dc29851f7bf28546bc799cda841742f689762048f1977656c057"
+hash = "85f49d736f5ae1ad2da4e8135f1d54a3e74809413f76d60ac418b2c4d25a6a8b"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -442,8 +442,8 @@ hash = "14573c7774aedc66e4a54cf656b9bf551ddd98ac67534112609e8a88f712f1f1"
 metafile = true
 
 [[files]]
-file = "mods/beatlamp-1.2.1+26.3.jar"
-hash = "2cb89738eb94da6c9613a54b3953b9986d386394bf14c95695c7e60ba234420e"
+file = "mods/beatlamp-1.2.3+26.3.jar"
+hash = "c8dbffdd26f25b2de54f938a4fcba50e60a958efe0f95e624760e68047c9fb90"
 
 [[files]]
 file = "mods/bettermounthud-1.3.1.jar.pw.toml"
@@ -546,6 +546,10 @@ hash = "85bcaa74b50444e008447faa7020d75c13caaea00d4e8c8ed22fd4c1ac6200fc"
 metafile = true
 
 [[files]]
+file = "mods/framework-fabric-26.3-0.13.27.jar"
+hash = "f14dcf0f123c594ce07c7f61d7223fb18c03758db944430473a81894adf81c31"
+
+[[files]]
 file = "mods/fzzy_config-0.7.7+fix3+26.3.jar.pw.toml"
 hash = "d21f5a41fbd3f42b08947ea1f29ea54c0affdd76abeb62a828712ab742c47233"
 metafile = true
@@ -629,8 +633,8 @@ file = "mods/pokapoka-foodbuff-0.1.0.jar"
 hash = "ff01ad911307032fdf3af261ad81bd6540dfa371464a61fe36a74d72101b4a94"
 
 [[files]]
-file = "mods/pokapoka-glamour-0.1.0-allow.jar"
-hash = "1adcbb473f54a270b2bb0eef97ebd0074fb86a43a186f73d0ac38711ad38cfeb"
+file = "mods/pokapoka-glamour-0.1.1.jar"
+hash = "7d66e8397553794eb6ff3c76dd599cc5a572a682fc44ed2c3baf1110ed4e9fcb"
 
 [[files]]
 file = "mods/pokapoka-jukebox-0.1.0.jar"
@@ -641,8 +645,8 @@ file = "mods/pokapoka-points-client-0.2.1.jar"
 hash = "e4b939c3c7cf61b59749dbe5ca7e121ab2816b6194fd5cb20a1766870012ea9b"
 
 [[files]]
-file = "mods/pokapoka-rewards-client-0.1.0.jar"
-hash = "108ea11c86f05dcccf9dc878486b9844fed5c988f1fb02123d7ae029870502a3"
+file = "mods/pokapoka-rewards-client-0.2.0.jar"
+hash = "c69fef1100bf03b67f8d72309f432bddd707a584ce503e9915d0f3232aaef36d"
 
 [[files]]
 file = "mods/puzzleslib-v26.3.16-mc26.3.x+fabric.jar.pw.toml"
@@ -653,6 +657,10 @@ metafile = true
 file = "mods/reeses-sodium-options-fabric-2.2.5+mc26.3.jar.pw.toml"
 hash = "4810de5261ef6234fd38b9c90d880cf193b42491a33cc29f68e0dc6a59f2edd3"
 metafile = true
+
+[[files]]
+file = "mods/refurbished_furniture-fabric-26.3-1.0.25-pkp2.jar"
+hash = "6ef5aeb62c4cfeaa121467378af4e6fb5f8528646e2ef62ed8d9b9c25ff0a1da"
 
 [[files]]
 file = "mods/satoyama-26.2.263-rooted.jar.pw.toml"

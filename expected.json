@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-19T12:55:34+09:00",
+    "generated":  "2026-11-19T17:40:15+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -33,9 +33,9 @@
                  },
                  {
                      "id":  "beatlamp",
-                     "version":  "1.2.1+26.3",
+                     "version":  "1.2.3+26.3",
                      "name":  "Beat Lamp",
-                     "file":  "beatlamp-1.2.1+26.3.jar"
+                     "file":  "beatlamp-1.2.3+26.3.jar"
                  },
                  {
                      "id":  "betterf3",
@@ -194,6 +194,12 @@
                      "file":  "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar"
                  },
                  {
+                     "id":  "framework",
+                     "version":  "0.13.27",
+                     "name":  "Framework",
+                     "file":  "framework-fabric-26.3-0.13.27.jar"
+                 },
+                 {
                      "id":  "fzzy_config",
                      "version":  "0.7.7+fix3+26.3",
                      "name":  "Fzzy Config",
@@ -321,9 +327,9 @@
                  },
                  {
                      "id":  "pokapoka_glamour",
-                     "version":  "0.1.0+26.3",
+                     "version":  "0.1.1+26.3",
                      "name":  "PoKaPoKa Glamour",
-                     "file":  "pokapoka-glamour-0.1.0-allow.jar"
+                     "file":  "pokapoka-glamour-0.1.1.jar"
                  },
                  {
                      "id":  "pokapoka_jukebox",
@@ -339,9 +345,9 @@
                  },
                  {
                      "id":  "pokapoka_rewards_client",
-                     "version":  "0.1.0",
+                     "version":  "0.2.0",
                      "name":  "PoKaPoKa ミッション（画面）",
-                     "file":  "pokapoka-rewards-client-0.1.0.jar"
+                     "file":  "pokapoka-rewards-client-0.2.0.jar"
                  },
                  {
                      "id":  "presencefootsteps",
@@ -366,6 +372,12 @@
                      "version":  "2.2.5+mc26.3",
                      "name":  "Reese\u0027s Sodium Options",
                      "file":  "reeses-sodium-options-fabric-2.2.5+mc26.3.jar"
+                 },
+                 {
+                     "id":  "refurbished_furniture",
+                     "version":  "1.0.25-26.3-pkp2",
+                     "name":  "MrCrayfish\u0027s Furniture Mod: Refurbished",
+                     "file":  "refurbished_furniture-fabric-26.3-1.0.25-pkp2.jar"
                  },
                  {
                      "id":  "satoyama_distribution",
