@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-18T16:55:43+09:00",
+    "generated":  "2026-11-19T12:55:34+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -312,6 +312,12 @@
                      "version":  "0.1.0",
                      "name":  "PoKaPoKa 貸付（画面）",
                      "file":  "pokapoka-bank-client-0.1.0.jar"
+                 },
+                 {
+                     "id":  "pokapoka_foodbuff",
+                     "version":  "0.1.0+26.3",
+                     "name":  "PoKaPoKa Foodbuff",
+                     "file":  "pokapoka-foodbuff-0.1.0.jar"
                  },
                  {
                      "id":  "pokapoka_glamour",
