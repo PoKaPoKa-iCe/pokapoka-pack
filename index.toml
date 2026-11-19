@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "bba503faa35e186631a14c032f6dd02663d66d04d39186a0269fcead3ebd3857"
+hash = "97953da0cc8cc1b9c351755e95710d36a93d062a0567e6b3e6035f72a1521deb"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -657,6 +657,10 @@ metafile = true
 file = "mods/reeses-sodium-options-fabric-2.2.5+mc26.3.jar.pw.toml"
 hash = "4810de5261ef6234fd38b9c90d880cf193b42491a33cc29f68e0dc6a59f2edd3"
 metafile = true
+
+[[files]]
+file = "mods/refurbished_furniture-fabric-26.3-1.0.25-pkp3.jar"
+hash = "f3a1adb40b9823ba43266b5694e47c6b79d6750c017575f237d3edfff52b5502"
 
 [[files]]
 file = "mods/satoyama-26.2.263-rooted.jar.pw.toml"

@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-20T05:03:13+09:00",
+    "generated":  "2026-11-20T05:27:33+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -372,6 +372,12 @@
                      "version":  "2.2.5+mc26.3",
                      "name":  "Reese\u0027s Sodium Options",
                      "file":  "reeses-sodium-options-fabric-2.2.5+mc26.3.jar"
+                 },
+                 {
+                     "id":  "refurbished_furniture",
+                     "version":  "1.0.25-26.3-pkp3",
+                     "name":  "MrCrayfish\u0027s Furniture Mod: Refurbished",
+                     "file":  "refurbished_furniture-fabric-26.3-1.0.25-pkp3.jar"
                  },
                  {
                      "id":  "satoyama_distribution",
