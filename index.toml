@@ -1371,7 +1371,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "800281f2bd4707a11ce25ee587b3b7d1d1ce70e9153664eae5887f4329390494"
+hash = "69b1ad5f7927ca4fd9088c6834904defd678bed8964b31b0db01844076247660"
 
 [[files]]
 file = "shaderpacks/I Like Vanilla v1.5.0b.zip.txt"
