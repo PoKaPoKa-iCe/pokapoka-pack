@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "0bdb8631b6e7c92df7c6162d8ea0a73fbf1d72a7adf494bafccf6d31a1f5bb19"
+hash = "63c96325ba1e4b672ea5f5f314c48552c6ccf4d1fe701dda25610f4477f648f2"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -637,8 +637,8 @@ file = "mods/pokapoka-foodbuff-0.1.0.jar"
 hash = "ff01ad911307032fdf3af261ad81bd6540dfa371464a61fe36a74d72101b4a94"
 
 [[files]]
-file = "mods/pokapoka-glamour-0.1.2.jar"
-hash = "46e96067f6fa3f81a0023e5dd6eeb6bd5683254eaa26e6faaadd7019e12da01f"
+file = "mods/pokapoka-glamour-0.1.4.jar"
+hash = "3603d4647721d0000588fd90def06fc05adf50507838d37dfded61fbada44fce"
 
 [[files]]
 file = "mods/pokapoka-jukebox-0.1.0.jar"
