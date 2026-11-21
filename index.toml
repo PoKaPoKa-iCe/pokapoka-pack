@@ -175,11 +175,6 @@ file = "config/presencefootsteps/userconfig.json5"
 hash = "124f41f08b0b4a6e4d049c4d680134794f832bcc079e1d28b2a45b4f6c6dcf8f"
 
 [[files]]
-file = "config/punchy/triggerable-keybindings.json"
-hash = "ffee925ca53b6f20259658bd52170f7482263d1887a13b490448f610a9cd16c0"
-preserve = true
-
-[[files]]
 file = "config/smoothswapping.json"
 hash = "3edb7a3cca0e7c3ec09f642516aba923bd8eba7ca414289a4103912fd24a7e66"
 
@@ -324,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "465751a84ac5cc83606c42bedc7469ba5751a6cabe14abb14a67516dd7e95308"
+hash = "4386a6ada78c9b7615b3816d4bc3679990424093330ae6956c3130eaae9dd905"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -670,11 +665,6 @@ hash = "ea6a30db8a512d777fc22e4488da469b0b94c196eed910bb97ebd2b2f9400f1d"
 [[files]]
 file = "mods/pokapoka-vtrade-0.1.0.jar"
 hash = "94fa4cf02cfd6b13a03ec33748db4d3cef68eafd69d71cb8aa5b5091e4686f3e"
-
-[[files]]
-file = "mods/punchy-3.2b-fabric-26.3.jar.pw.toml"
-hash = "67bb59476b2f0a691ba764ab8569ae8c9789169cd35925820c2aa344d04a842b"
-metafile = true
 
 [[files]]
 file = "mods/puzzleslib-v26.3.16-mc26.3.x+fabric.jar.pw.toml"

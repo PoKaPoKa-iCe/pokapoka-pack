@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-21T14:13:21+09:00",
+    "generated":  "2026-11-21T14:57:15+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -384,12 +384,6 @@
                      "version":  "26.3.0.2",
                      "name":  "PrickleMC",
                      "file":  "PrickleMC-fabric-MC26.3-26.3.0.2.jar"
-                 },
-                 {
-                     "id":  "punchy",
-                     "version":  "3.2b",
-                     "name":  "Punchy",
-                     "file":  "punchy-3.2b-fabric-26.3.jar"
                  },
                  {
                      "id":  "puzzleslib",
