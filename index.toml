@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "db11ac85bf4e6b379d9b915402f0753fceee78d24b5e9a7fdb21ad918391fe01"
+hash = "459f2649100de490a7df1b2f20531eefee9de6e01dd6a5a60bb32fb2d93b43a0"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -639,8 +639,8 @@ file = "mods/pokapoka-bank-client-0.1.0.jar"
 hash = "5382c731384bd0aca4f2da3b7bddb332cf82ad40c3ef5d1f94204313e5010328"
 
 [[files]]
-file = "mods/pokapoka-casino-1.0.0-26.3-pkp11.jar"
-hash = "97982545ae1d85d95bbe7b1329b32c81adf10e352afc3fd01df5d56e8ecf1ae7"
+file = "mods/pokapoka-casino-1.0.0-26.3-pkp13.jar"
+hash = "c7944a9e4d21311512c39ff19fccc5290d6f6f73cc72a90712581d16854762c7"
 
 [[files]]
 file = "mods/pokapoka-foodbuff-0.1.0.jar"
@@ -659,12 +659,12 @@ file = "mods/pokapoka-points-client-0.2.2.jar"
 hash = "be2a5a45859b268194c978441277b67dfd0cad05ad84b9d8b287b7bc67c81e9d"
 
 [[files]]
-file = "mods/pokapoka-rewards-client-0.2.1.jar"
-hash = "ea6a30db8a512d777fc22e4488da469b0b94c196eed910bb97ebd2b2f9400f1d"
+file = "mods/pokapoka-rewards-client-0.2.2.jar"
+hash = "2d08100d5ac7f30402caf1c401f0bd3a4c212c8aaeffb05dd89839dfeb64bda0"
 
 [[files]]
-file = "mods/pokapoka-vtrade-0.1.2.jar"
-hash = "d626cfececbcafd259367d1d37515cf31692ce9779efa1dbcc7d8a5a9744046b"
+file = "mods/pokapoka-vtrade-0.1.3.jar"
+hash = "b274f2d25c5f2246a43196689bcc8d3bb7e13969c632eebb738d71f494d0c0e4"
 
 [[files]]
 file = "mods/puzzleslib-v26.3.16-mc26.3.x+fabric.jar.pw.toml"
