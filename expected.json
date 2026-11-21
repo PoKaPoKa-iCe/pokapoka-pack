@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-21T13:21:04+09:00",
+    "generated":  "2026-11-21T14:13:21+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -386,6 +386,12 @@
                      "file":  "PrickleMC-fabric-MC26.3-26.3.0.2.jar"
                  },
                  {
+                     "id":  "punchy",
+                     "version":  "3.2b",
+                     "name":  "Punchy",
+                     "file":  "punchy-3.2b-fabric-26.3.jar"
+                 },
+                 {
                      "id":  "puzzleslib",
                      "version":  "26.3.16",
                      "name":  "Puzzles Lib",
@@ -522,7 +528,7 @@
                      "version":  "1.0.0",
                      "name":  "おまかせ設定",
                      "file":  "switcher.jar",
-                     "build":  "20261121-125841"
+                     "build":  "20261121-141221"
                  }
              ],
     "resourcePacks":  [

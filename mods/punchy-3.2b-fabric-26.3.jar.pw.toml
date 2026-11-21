@@ -1,0 +1,8 @@
+name = "punchy-3.2b-fabric-26.3"
+filename = "punchy-3.2b-fabric-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/JRytS9VK/punchy-3.2b-fabric-26.3.jar"
+hash-format = "sha512"
+hash = "58beb164c5f385ad73c3fc3bd75ff69b1fb87c69ddfc0697c99519692c4d83c5fe3dae184d0d025fb5c7f9bf2e1d05b9d0216ed632b7129c7b6b917a39e37b8f"
