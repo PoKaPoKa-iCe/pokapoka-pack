@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-22T01:01:11+09:00",
+    "generated":  "2026-11-22T02:36:10+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -333,9 +333,9 @@
                  },
                  {
                      "id":  "pokapoka_casino",
-                     "version":  "1.0.0-26.3-pkp14",
+                     "version":  "1.0.0-26.3-pkp15",
                      "name":  "PoKaPoKa Casino (Chips Casino + Guaranteed Profit)",
-                     "file":  "pokapoka-casino-1.0.0-26.3-pkp14.jar"
+                     "file":  "pokapoka-casino-1.0.0-26.3-pkp15.jar"
                  },
                  {
                      "id":  "pokapoka_foodbuff",

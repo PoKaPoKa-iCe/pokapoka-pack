@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "33d909bea7d3f831a26519babb199d93258cfa3a962a300c0a29854cc59c5dbe"
+hash = "b9447351396558435140417f4a6414f722876ccca0d9c3c09bda178521bc8a6a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -639,8 +639,8 @@ file = "mods/pokapoka-bank-client-0.1.0.jar"
 hash = "5382c731384bd0aca4f2da3b7bddb332cf82ad40c3ef5d1f94204313e5010328"
 
 [[files]]
-file = "mods/pokapoka-casino-1.0.0-26.3-pkp14.jar"
-hash = "00a40aeaf1d882f925fe3d9ba819951ed1ef6898ad4979588ce5526ae1955917"
+file = "mods/pokapoka-casino-1.0.0-26.3-pkp15.jar"
+hash = "9926c8480c22e4d431426ac4bd7f1573e2fb617a5725c73acfea401240cb63f5"
 
 [[files]]
 file = "mods/pokapoka-foodbuff-0.1.0.jar"
