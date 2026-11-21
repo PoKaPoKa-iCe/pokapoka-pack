@@ -1,0 +1,8 @@
+name = "emotecraft-for-MC26.3-3.5.0-b.build.179"
+filename = "emotecraft-for-MC26.3-3.5.0-b.build.179.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/TYkuVa5C/emotecraft-for-MC26.3-3.5.0-b.build.179.jar"
+hash-format = "sha512"
+hash = "9985654cd3b1e601d2b6dde3ed950cfdce35369ee44c3694d576dfb18396823e496f739eb148e5217b144cfa41fece45ee29e14a3274d992bb0780c7eac501bb"

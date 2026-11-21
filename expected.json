@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-21T10:06:05+09:00",
+    "generated":  "2026-11-21T13:21:04+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -126,6 +126,12 @@
                      "version":  "3.11.10",
                      "name":  "Dynamic FPS",
                      "file":  "dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar"
+                 },
+                 {
+                     "id":  "emotecraft",
+                     "version":  "3.5.0-b.build.179",
+                     "name":  "Emotecraft",
+                     "file":  "emotecraft-for-MC26.3-3.5.0-b.build.179.jar"
                  },
                  {
                      "id":  "enchdesc",
@@ -312,6 +318,12 @@
                      "version":  "3.2.0+26.3",
                      "name":  "Placeholder API",
                      "file":  "placeholder-api-3.2.0+26.3.jar"
+                 },
+                 {
+                     "id":  "player_animation_library",
+                     "version":  "1.2.9+mc.26.3",
+                     "name":  "Player Animation Library",
+                     "file":  "PlayerAnimationLibMerged-1.2.9+mc.26.3.jar"
                  },
                  {
                      "id":  "pokapoka_bank_client",
@@ -510,7 +522,7 @@
                      "version":  "1.0.0",
                      "name":  "おまかせ設定",
                      "file":  "switcher.jar",
-                     "build":  "20261111-204801"
+                     "build":  "20261121-125841"
                  }
              ],
     "resourcePacks":  [

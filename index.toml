@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "9f6868cb342899f837e9e392a8e86ac765b1d1ea273797a4bacde8ca1e8dbbe5"
+hash = "00a4445d554409b71fbf9e47411b0b54d316bf7df4af26156541ee30d8bbb83b"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -389,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/NoChatReports-FABRIC-26.3-v2.21.0.jar.pw.toml"
 hash = "5327e66e545bf07e05e286c49da6e9dc94569be385c031d0415209ee81889b28"
+metafile = true
+
+[[files]]
+file = "mods/PlayerAnimationLibMerged-1.2.9+mc.26.3.jar.pw.toml"
+hash = "6e0d17bb5ea5ec7e2e144cb9d9de1b4af2ea07ac29bdf91341f105055065d74a"
 metafile = true
 
 [[files]]
@@ -498,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar.pw.toml"
 hash = "7c5d3f3e16e6b9f91cd82148bfd3b6be73134112e152ed89e0e4167c0ae053ca"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft-for-MC26.3-3.5.0-b.build.179.jar.pw.toml"
+hash = "383b095c5fd9cf43fd3196af967c36afa304efcb5d5b7a7afb8f3c58fedd6dd5"
 metafile = true
 
 [[files]]
@@ -707,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/switcher.jar"
-hash = "bcec16c2662ed03a9a90195a0dea99c11366d2221e167f3591e19835642dd490"
+hash = "aa427e303b8c9314242423b1892984f91b3de85cfb9aca534bb336de771d8ace"
 
 [[files]]
 file = "mods/trade-cycling-fabric-1.0.23+26.3.jar.pw.toml"
