@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-22T23:06:07+09:00",
+    "generated":  "2026-11-23T02:06:14+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -333,9 +333,9 @@
                  },
                  {
                      "id":  "pokapoka_casino",
-                     "version":  "1.0.0-26.3-pkp20",
+                     "version":  "1.0.0-26.3-pkp21",
                      "name":  "PoKaPoKa Casino (Chips Casino + Guaranteed Profit)",
-                     "file":  "pokapoka-casino-1.0.0-26.3-pkp20.jar"
+                     "file":  "pokapoka-casino-1.0.0-26.3-pkp21.jar"
                  },
                  {
                      "id":  "pokapoka_foodbuff",
@@ -366,6 +366,12 @@
                      "version":  "0.2.2",
                      "name":  "PoKaPoKa ミッション（画面）",
                      "file":  "pokapoka-rewards-client-0.2.2.jar"
+                 },
+                 {
+                     "id":  "pokapoka_rumlook",
+                     "version":  "0.1.0+26.3",
+                     "name":  "PoKaPoKa Rum Look",
+                     "file":  "pokapoka-rumlook-0.1.0-26.3.jar"
                  },
                  {
                      "id":  "pokapoka_vtrade",
