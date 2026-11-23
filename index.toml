@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "74349be890ced8536b33df10bf761eae3885103c0676f57b0cf25ed974c489e2"
+hash = "07a3fe7de9cd8cbfcd1a2b50ebfb59fdcaf9fd6c503fb097c079a7dcad862e76"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -653,6 +653,10 @@ hash = "3603d4647721d0000588fd90def06fc05adf50507838d37dfded61fbada44fce"
 [[files]]
 file = "mods/pokapoka-jukebox-0.1.0.jar"
 hash = "bad6b79f23ea15c87f474386136cec05da04835f06dc499f580aee64109317b7"
+
+[[files]]
+file = "mods/pokapoka-phononslots-0.1.0.jar"
+hash = "90dcdd07c046b1ad0370b168f210597ef262fb2cca26ae50bea86ec55cf8f3a1"
 
 [[files]]
 file = "mods/pokapoka-points-client-0.2.3.jar"

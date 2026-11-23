@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-23T17:01:33+09:00",
+    "generated":  "2026-11-24T05:03:15+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -354,6 +354,12 @@
                      "version":  "0.1.0",
                      "name":  "PoKaPoKa Jukebox",
                      "file":  "pokapoka-jukebox-0.1.0.jar"
+                 },
+                 {
+                     "id":  "pokapoka_phononslots",
+                     "version":  "0.1.0",
+                     "name":  "PhononSlots",
+                     "file":  "pokapoka-phononslots-0.1.0.jar"
                  },
                  {
                      "id":  "pokapoka_points_client",
