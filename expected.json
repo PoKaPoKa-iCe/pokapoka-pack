@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-24T05:03:15+09:00",
+    "generated":  "2026-11-27T17:01:24+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -345,9 +345,9 @@
                  },
                  {
                      "id":  "pokapoka_glamour",
-                     "version":  "0.1.4+26.3",
+                     "version":  "0.1.6+26.3",
                      "name":  "PoKaPoKa Glamour",
-                     "file":  "pokapoka-glamour-0.1.4.jar"
+                     "file":  "pokapoka-glamour-0.1.6.jar"
                  },
                  {
                      "id":  "pokapoka_jukebox",
