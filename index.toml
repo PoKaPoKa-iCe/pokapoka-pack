@@ -319,7 +319,7 @@ hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
 file = "expected.json"
-hash = "4b8bee31151331551ad8f04ce9b3d8d69a79ec31f4a4e6d7d11dbd61a54ec6ff"
+hash = "a1fa259a29ac51519dc43697343fa95a788bd55db0e5919fbe90a747ed5fe246"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
@@ -447,8 +447,8 @@ hash = "14573c7774aedc66e4a54cf656b9bf551ddd98ac67534112609e8a88f712f1f1"
 metafile = true
 
 [[files]]
-file = "mods/beatlamp-1.2.3+26.3.jar"
-hash = "c8dbffdd26f25b2de54f938a4fcba50e60a958efe0f95e624760e68047c9fb90"
+file = "mods/beatlamp-1.3.0+26.3.jar"
+hash = "e4ad756a4811b7b2a61a340590532916daeba1e243627d6f912c33cc1d7bb2b8"
 
 [[files]]
 file = "mods/bettermounthud-1.3.1.jar.pw.toml"

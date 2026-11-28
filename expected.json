@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-11-27T17:01:24+09:00",
+    "generated":  "2026-11-28T17:01:59+09:00",
     "mods":  [
                  {
                      "id":  "afkcinematics",
@@ -33,9 +33,9 @@
                  },
                  {
                      "id":  "beatlamp",
-                     "version":  "1.2.3+26.3",
+                     "version":  "1.3.0+26.3",
                      "name":  "Beat Lamp",
-                     "file":  "beatlamp-1.2.3+26.3.jar"
+                     "file":  "beatlamp-1.3.0+26.3.jar"
                  },
                  {
                      "id":  "betterf3",
